@@ -10812,7 +10812,7 @@
 
 ### zooarchaeology 
 * [International Handbook of Historical Archaeology](#international_handbook_of_historical_archaeology)
-## Strategic International Management#strategic_international_management
+## Strategic International Management
 ### **Dirk Morschett, Hanna Schramm-Klein, Joachim Zentes** 
 
 
@@ -10847,7 +10847,7 @@ Joachim Zentes is Professor of Management and Marketing at the Saarland Universi
 
 
  [![Strategic International Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-07884-3.pdf)
-## Intuitive Probability and Random Processes Using MATLAB®#intuitive_probability_and_random_processes_using_matlab®
+## Intuitive Probability and Random Processes Using MATLAB®
 ### **Steven M. Kay** 
 
 
@@ -10883,7 +10883,7 @@ Steven M. Kay is a Professor of Electrical Engineering at the University of Rhod
 
 
  [![Intuitive Probability and Random Processes Using MATLAB®](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2Fb104645.pdf)
-## Fundamentals of Biomechanics#fundamentals_of_biomechanics
+## Fundamentals of Biomechanics
 ### **Nihat Özkaya, Dawn Leger, David Goldsheyder, Margareta Nordin** 
 
 
@@ -10907,7 +10907,7 @@ This book:
 
 
  [![Fundamentals of Biomechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-44738-4.pdf)
-## Thermodynamics and Energy Conversion#thermodynamics_and_energy_conversion
+## Thermodynamics and Energy Conversion
 ### **Henning Struchtrup** 
 
 
@@ -10933,7 +10933,7 @@ The book includes about 300 end-of-chapter problems for homework assignments and
 
 
  [![Thermodynamics and Energy Conversion](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-43715-5.pdf)
-## Pharmaceutical Biotechnology#pharmaceutical_biotechnology
+## Pharmaceutical Biotechnology
 ### **Daan J. A. Crommelin, Robert D. Sindelar, Bernd Meibohm** 
 
 
@@ -10952,7 +10952,7 @@ The book includes about 300 end-of-chapter problems for homework assignments and
 
 
  [![Pharmaceutical Biotechnology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00710-2.pdf)
-## Real Analysis#real_analysis
+## Real Analysis
 ### **Miklós Laczkovich, Vera T. Sós** 
 
 
@@ -10973,7 +10973,7 @@ The book includes a solid grounding in the basics of logic and proofs, sets, and
 
 
  [![Real Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2766-1.pdf)
-## Fundamental Astronomy#fundamental_astronomy
+## Fundamental Astronomy
 ### **Hannu Karttunen, Pekka Kröger, Heikki Oja, Markku Poutanen, Karl Johan Donner** 
 
 
@@ -11004,7 +11004,7 @@ From reviews of earlier editions:
 
 
  [![Fundamental Astronomy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53045-0.pdf)
-## Electronics for Embedded Systems#electronics_for_embedded_systems
+## Electronics for Embedded Systems
 ### **Ahmet Bindal** 
 
 
@@ -11016,7 +11016,7 @@ From reviews of earlier editions:
 
 
  [![Electronics for Embedded Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-39439-8.pdf)
-## Strategic Retail Management#strategic_retail_management
+## Strategic Retail Management
 ### **Joachim Zentes, Dirk Morschett, Hanna Schramm-Klein** 
 
 
@@ -11050,7 +11050,7 @@ From reviews of earlier editions:
 
 
  [![Strategic Retail Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-658-10183-1.pdf)
-## Research Methods for the Digital Humanities#research_methods_for_the_digital_humanities
+## Research Methods for the Digital Humanities
 ### **lewis levenberg, Tai Neilson, David Rheams** 
 
 
@@ -11062,7 +11062,7 @@ From reviews of earlier editions:
 
 
  [![Research Methods for the Digital Humanities](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-96713-4.pdf)
-## Principles of Fluorescence Spectroscopy#principles_of_fluorescence_spectroscopy
+## Principles of Fluorescence Spectroscopy
 ### **Joseph R. Lakowicz** 
 
 
@@ -11100,7 +11100,7 @@ This full-color textbook features the following:
 
 
  [![Principles of Fluorescence Spectroscopy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-46312-4.pdf)
-## The Gastrointestinal System#the_gastrointestinal_system
+## The Gastrointestinal System
 ### **Po Sing Leung** 
 
 
@@ -11116,7 +11116,7 @@ Human gastrointestinal physiology is the study of our gastrointestinal system th
 
 
  [![The Gastrointestinal System](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-017-8771-0.pdf)
-## Statistics and Analysis of Scientific Data#statistics_and_analysis_of_scientific_data
+## Statistics and Analysis of Scientific Data
 ### **Massimiliano Bonamente** 
 
 
@@ -11141,7 +11141,7 @@ As in the first edition, the main pedagogical method is a theory-then-applicatio
 
 
  [![Statistics and Analysis of Scientific Data](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-6572-4.pdf)
-## Partial Differential Equations#partial_differential_equations
+## Partial Differential Equations
 ### **Jürgen Jost** 
 
 
@@ -11159,7 +11159,7 @@ This revised and expanded third edition is enhanced with many additional example
 
 
  [![Partial Differential Equations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-4809-9.pdf)
-## Principles of Musical Acoustics#principles_of_musical_acoustics
+## Principles of Musical Acoustics
 ### **William M. Hartmann** 
 
 
@@ -11173,7 +11173,7 @@ The mathematical level of this book assumes that the reader is familiar with ele
 
 
  [![Principles of Musical Acoustics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6786-1.pdf)
-## Quantum Mechanics#quantum_mechanics
+## Quantum Mechanics
 ### **K. T. Hecht** 
 
 
@@ -11185,7 +11185,7 @@ The mathematical level of this book assumes that the reader is familiar with ele
 
 
  [![Quantum Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4612-1272-0.pdf)
-## Design and Analysis of Experiments#design_and_analysis_of_experiments
+## Design and Analysis of Experiments
 ### **Angela Dean, Daniel Voss, Danel Draguljić** 
 
 
@@ -11207,7 +11207,7 @@ This new, second edition includes* an additional chapter on computer experiments
 
 
  [![Design and Analysis of Experiments](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-52250-0.pdf)
-## Sensory Evaluation of Food#sensory_evaluation_of_food
+## Sensory Evaluation of Food
 ### **Harry T. Lawless, Hildegarde Heymann** 
 
 
@@ -11231,7 +11231,7 @@ This text attempts to be comprehensive, yet understandable to all students at th
 
 
  [![Sensory Evaluation of Food](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6488-5.pdf)
-## Mathematical Physics#mathematical_physics
+## Mathematical Physics
 ### **Sadri Hassani** 
 
 
@@ -11250,7 +11250,7 @@ Einstein has famously said, "The most incomprehensible thing about nature is tha
 
 
  [![Mathematical Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-01195-0.pdf)
-## Basic Concepts in Computational Physics#basic_concepts_in_computational_physics
+## Basic Concepts in Computational Physics
 ### **Benjamin A. Stickler, Ewald Schachinger** 
 
 
@@ -11270,7 +11270,7 @@ Numerous problems with worked-out solutions, chapter introductions and summaries
 
 
  [![Basic Concepts in Computational Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27265-8.pdf)
-## Introduction to Mathematica® for Physicists#introduction_to_mathematica®_for_physicists
+## Introduction to Mathematica® for Physicists
 ### **Andrey Grozin** 
 
 
@@ -11282,7 +11282,7 @@ Numerous problems with worked-out solutions, chapter introductions and summaries
 
 
  [![Introduction to Mathematica® for Physicists](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-00894-3.pdf)
-## Applied Partial Differential Equations#applied_partial_differential_equations
+## Applied Partial Differential Equations
 ### **J. David Logan** 
 
 
@@ -11308,7 +11308,7 @@ The exposition is presented in a friendly, easy-to-read, style, with mathematica
 
 
  [![Applied Partial Differential Equations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-12493-3.pdf)
-## Probability Theory#probability_theory
+## Probability Theory
 ### **Alexandr A. Borovkov** 
 
 
@@ -11338,7 +11338,7 @@ Professor Alexandr Borovkov lives and works in the Novosibirsk Academy Town in R
 
 
  [![Probability Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5201-9.pdf)
-## The Algorithm Design Manual#the_algorithm_design_manual
+## The Algorithm Design Manual
 ### **Steven S. Skiena** 
 
 
@@ -11395,7 +11395,7 @@ Written by a well-known algorithms researcher who received the IEEE Computer Sci
 
 
  [![The Algorithm Design Manual](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-070-4.pdf)
-## Learning Landscape Ecology#learning_landscape_ecology
+## Learning Landscape Ecology
 ### **Sarah E. Gergel, Monica G. Turner** 
 
 
@@ -11408,7 +11408,7 @@ This second edition is purposefully more applied and international in its exampl
 
 
  [![Learning Landscape Ecology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-6374-4.pdf)
-## Principles of Astrophysics#principles_of_astrophysics
+## Principles of Astrophysics
 ### **Charles Keeton** 
 
 
@@ -11426,7 +11426,7 @@ This volume is aimed at undergraduate students majoring in astrophysics, physics
 
 
  [![Principles of Astrophysics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-9236-8.pdf)
-## The Finite Volume Method in Computational Fluid Dynamics#the_finite_volume_method_in_computational_fluid_dynamics
+## The Finite Volume Method in Computational Fluid Dynamics
 ### **F. Moukalled, L. Mangani, M. Darwish** 
 
 
@@ -11442,7 +11442,7 @@ With over 220 figures, numerous examples and more than one hundred exercise on F
 
 
  [![The Finite Volume Method in Computational Fluid Dynamics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-16874-6.pdf)
-## A Beginner’s Guide to R#a_beginner’s_guide_to_r
+## A Beginner’s Guide to R
 ### **Alain F. Zuur, Elena N. Ieno, Erik H. W. G. Meesters** 
 
 
@@ -11469,7 +11469,7 @@ Erik H.W.G. Meesters is a researcher at the Dutch Institute for Marine Resources
 
 
  [![A Beginner’s Guide to R](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-93837-0.pdf)
-## Structural Analysis#structural_analysis
+## Structural Analysis
 ### **O. A. Bauchau, J. I. Craig** 
 
 
@@ -11491,7 +11491,7 @@ This teaching tool based on practical situations and thorough methodology should
 
 
  [![Structural Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-90-481-2516-6.pdf)
-## Ceramic Materials#ceramic_materials
+## Ceramic Materials
 ### **C. Barry Carter, M. Grant Norton** 
 
 
@@ -11508,7 +11508,7 @@ This teaching tool based on practical situations and thorough methodology should
 
 
  [![Ceramic Materials](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-46271-4.pdf)
-## New Introduction to Multiple Time Series Analysis#new_introduction_to_multiple_time_series_analysis
+## New Introduction to Multiple Time Series Analysis
 ### **Helmut Lütkepohl** 
 
 
@@ -11520,7 +11520,7 @@ This teaching tool based on practical situations and thorough methodology should
 
 
  [![New Introduction to Multiple Time Series Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-540-27752-1.pdf)
-## Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts#language_across_the_curriculum_clil_in_english_as_an_additional_language_eal_contexts
+## Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts
 ### **Angel M.Y. Lin** 
 
 
@@ -11534,7 +11534,7 @@ Professor Jay Lemke, University of California – San DiegoAuthor of Talking Sci
 
 
  [![Language Across the Curriculum & CLIL in English as an Additional Language (EAL) Contexts](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-10-1802-2.pdf)
-## Group Theory Applied to Chemistry#group_theory_applied_to_chemistry
+## Group Theory Applied to Chemistry
 ### **Arnout Jozef Ceulemans** 
 
 
@@ -11548,7 +11548,7 @@ Professor Jay Lemke, University of California – San DiegoAuthor of Talking Sci
 
 
  [![Group Theory Applied to Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-007-6863-5.pdf)
-## Computational Geometry#computational_geometry
+## Computational Geometry
 ### **Mark de Berg, Otfried Cheong, Marc van Kreveld, Mark Overmars** 
 
 
@@ -11560,7 +11560,7 @@ Professor Jay Lemke, University of California – San DiegoAuthor of Talking Sci
 
 
  [![Computational Geometry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-540-77974-2.pdf)
-## Evidence-Based Interventions for Children with Challenging Behavior#evidence_based_interventions_for_children_with_challenging_behavior
+## Evidence-Based Interventions for Children with Challenging Behavior
 ### **Kathleen Hague Armstrong, Julia A. Ogg, Ashley N. Sundman-Wheat, Audra St. John Walsh** 
 
 
@@ -11584,7 +11584,7 @@ Included in the coverage:
 
 
  [![Evidence-Based Interventions for Children with Challenging Behavior](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7807-2.pdf)
-## Nanotechnology: Principles and Practices#nanotechnology_principles_and_practices
+## Nanotechnology: Principles and Practices
 ### **Sulabha K. Kulkarni** 
 
 
@@ -11598,7 +11598,7 @@ Included in the coverage:
 
 
  [![Nanotechnology: Principles and Practices](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-09171-6.pdf)
-## Entertainment Science#entertainment_science
+## Entertainment Science
 ### **Thorsten Hennig-Thurau, Mark B. Houston** 
 
 
@@ -11623,7 +11623,7 @@ Allègre Hadida, Associate Professor in Strategy, University of Cambridge
 
 
  [![Entertainment Science](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-89292-4.pdf)
-## Advanced Quantum Mechanics#advanced_quantum_mechanics
+## Advanced Quantum Mechanics
 ### **Rainer Dick** 
 
 
@@ -11641,7 +11641,7 @@ ansition probabilities, decay rates, absorption cross sections and scattering cr
 
 
  [![Advanced Quantum Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-25675-7.pdf)
-## Understanding Statistics Using R#understanding_statistics_using_r
+## Understanding Statistics Using R
 ### **Randall Schumacker, Sara Tomek** 
 
 
@@ -11671,7 +11671,7 @@ This book uses the R statistical package which contains an extensive library of 
 
 
  [![Understanding Statistics Using R](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6227-9.pdf)
-## Psychology of Perception#psychology_of_perception
+## Psychology of Perception
 ### **Simon Grondin** 
 
 
@@ -11695,7 +11695,7 @@ Featured topics in this book:
 
 
  [![Psychology of Perception](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-31791-5.pdf)
-## Electricity and Magnetism#electricity_and_magnetism
+## Electricity and Magnetism
 ### **Teruo Matsushita** 
 
 
@@ -11712,7 +11712,7 @@ Additionally, the basic mathematical operation and proofs are shown in an append
 
 
  [![Electricity and Magnetism](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-4-431-54526-2.pdf)
-## Food Analysis#food_analysis
+## Food Analysis
 ### **S. Suzanne Nielsen** 
 
 
@@ -11724,7 +11724,7 @@ Additionally, the basic mathematical operation and proofs are shown in an append
 
 
  [![Food Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-45776-5.pdf)
-## Data Mining#data_mining
+## Data Mining
 ### **Charu C. Aggarwal** 
 
 
@@ -11748,7 +11748,7 @@ Praise for Data Mining: The Textbook -
 
 
  [![Data Mining](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-14142-8.pdf)
-## Chemical and Bioprocess Engineering#chemical_and_bioprocess_engineering
+## Chemical and Bioprocess Engineering
 ### **Ricardo Simpson, Sudhir K. Sastry** 
 
 
@@ -11768,7 +11768,7 @@ Sudhir Sastry is a Professor at The Ohio State University, Department of Food, A
 
 
  [![Chemical and Bioprocess Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-9126-2.pdf)
-## Applied Chemistry#applied_chemistry
+## Applied Chemistry
 ### **O.V. Roussak, H. D. Gesser** 
 
 
@@ -11780,7 +11780,7 @@ Sudhir Sastry is a Professor at The Ohio State University, Department of Food, A
 
 
  [![Applied Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-4262-2.pdf)
-## Fundamentals of Multimedia#fundamentals_of_multimedia
+## Fundamentals of Multimedia
 ### **Ze-Nian Li, Mark S. Drew, Jiangchuan Liu** 
 
 
@@ -11807,7 +11807,7 @@ This classroom-tested textbook is ideal for higher-level undergraduate and gradu
 
 
  [![Fundamentals of Multimedia](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-05290-8.pdf)
-## Probability Theory#probability_theory
+## Probability Theory
 ### **Achim Klenke** 
 
 
@@ -11835,7 +11835,7 @@ The theory is developed rigorously and in a self-contained way, with the chapter
 
 
  [![Probability Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5361-0.pdf)
-## Political Social Work#political_social_work
+## Political Social Work
 ### **Shannon R. Lane, Suzanne Pritzker** 
 
 
@@ -11867,7 +11867,7 @@ The theory is developed rigorously and in a self-contained way, with the chapter
 
 
  [![Political Social Work](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68588-5.pdf)
-## Supply Chain Management and Advanced Planning#supply_chain_management_and_advanced_planning
+## Supply Chain Management and Advanced Planning
 ### **Hartmut Stadtler, Christoph Kilger, Herbert Meyr** 
 
 
@@ -11879,7 +11879,7 @@ The theory is developed rigorously and in a self-contained way, with the chapter
 
 
  [![Supply Chain Management and Advanced Planning](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-55309-7.pdf)
-## Enterprise Risk Management Models#enterprise_risk_management_models
+## Enterprise Risk Management Models
 ### **David L. Olson, Desheng Dash Wu** 
 
 
@@ -11895,7 +11895,7 @@ This book comes at a time when the world is increasingly challenged by different
 
 
  [![Enterprise Risk Management Models](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53785-5.pdf)
-## Fundamentals of Business Process Management#fundamentals_of_business_process_management
+## Fundamentals of Business Process Management
 ### **Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers** 
 
 
@@ -11909,7 +11909,7 @@ The textbook is the result of many years of combined teaching experience of the 
 
 
  [![Fundamentals of Business Process Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-56509-4.pdf)
-## Clinical Assessment of Child and Adolescent Personality and Behavior#clinical_assessment_of_child_and_adolescent_personality_and_behavior
+## Clinical Assessment of Child and Adolescent Personality and Behavior
 ### **Paul J. Frick, Christopher T. Barry, Randy W. Kamphaus** 
 
 
@@ -11950,7 +11950,7 @@ This new edition:
 
 
  [![Clinical Assessment of Child and Adolescent Personality and Behavior](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-0641-0.pdf)
-## ArcGIS for Environmental and Water Issues#arcgis_for_environmental_and_water_issues
+## ArcGIS for Environmental and Water Issues
 ### **William Bajjali** 
 
 
@@ -11968,7 +11968,7 @@ Each chapter contains concrete case studies and exercises – many from the auth
 
 
  [![ArcGIS for Environmental and Water Issues](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-61158-7.pdf)
-## Neural Networks and Deep Learning#neural_networks_and_deep_learning
+## Neural Networks and Deep Learning
 ### **Charu C. Aggarwal** 
 
 
@@ -11993,7 +11993,7 @@ The book is written for graduate students, researchers, and practitioners. Numer
 
 
  [![Neural Networks and Deep Learning](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-94463-0.pdf)
-## Multinational Management#multinational_management
+## Multinational Management
 ### **Rien T. Segers** 
 
 
@@ -12009,7 +12009,7 @@ Readers will learn about the current multinational landscape in Asia, the manage
 
 
  [![Multinational Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-23012-2.pdf)
-## Introduction to Particle and Astroparticle Physics#introduction_to_particle_and_astroparticle_physics
+## Introduction to Particle and Astroparticle Physics
 ### **Alessandro De Angelis, Mário  Pimenta** 
 
 
@@ -12021,7 +12021,7 @@ Readers will learn about the current multinational landscape in Asia, the manage
 
 
  [![Introduction to Particle and Astroparticle Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-78181-5.pdf)
-## A First Introduction to Quantum Physics#a_first_introduction_to_quantum_physics
+## A First Introduction to Quantum Physics
 ### **Pieter Kok** 
 
 
@@ -12035,7 +12035,7 @@ The book is an ideal and accessible introduction to quantum physics, with modern
 
 
  [![A First Introduction to Quantum Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-92207-2.pdf)
-## Digital Business Models#digital_business_models
+## Digital Business Models
 ### **Bernd W. Wirtz** 
 
 
@@ -12056,7 +12056,7 @@ Conceived as a textbook for students in advanced undergraduate courses, the book
 
 
  [![Digital Business Models](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-13005-3.pdf)
-## Introduction to Parallel Computing#introduction_to_parallel_computing
+## Introduction to Parallel Computing
 ### **Roman Trobec, Boštjan Slivnik, Patricio Bulić, Borut Robič** 
 
 
@@ -12076,7 +12076,7 @@ Many examples and exercises support the exposition.
 
 
  [![Introduction to Parallel Computing](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-98833-7.pdf)
-## Quantum Mechanics for Pedestrians 2#quantum_mechanics_for_pedestrians_2
+## Quantum Mechanics for Pedestrians 2
 ### **Jochen Pade** 
 
 
@@ -12094,7 +12094,7 @@ Originally written as a course for students of science education, the book addre
 
 
  [![Quantum Mechanics for Pedestrians 2](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00467-5.pdf)
-## An Introduction to Biomechanics#an_introduction_to_biomechanics
+## An Introduction to Biomechanics
 ### **Jay D. Humphrey, Sherry L. O’Rourke** 
 
 
@@ -12120,7 +12120,7 @@ urages students to develop a “big-picture” approach to problem-solving in bi
 
 
  [![An Introduction to Biomechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2623-7.pdf)
-## Petroleum Geoscience#petroleum_geoscience
+## Petroleum Geoscience
 ### **Knut Bjørlykke** 
 
 
@@ -12134,7 +12134,7 @@ urages students to develop a “big-picture” approach to problem-solving in bi
 
 
  [![Petroleum Geoscience](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-34132-8.pdf)
-## Extragalactic Astronomy and Cosmology#extragalactic_astronomy_and_cosmology
+## Extragalactic Astronomy and Cosmology
 ### **Peter Schneider** 
 
 
@@ -12162,7 +12162,7 @@ While this book has grown out of introductory university courses on astronomy an
 
 
  [![Extragalactic Astronomy and Cosmology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-54083-7.pdf)
-## Cosmology for the Curious#cosmology_for_the_curious
+## Cosmology for the Curious
 ### **Delia Perlov, Alex Vilenkin** 
 
 
@@ -12178,7 +12178,7 @@ Students and other interested readers will find here a non-technical but concept
 
 
  [![Cosmology for the Curious](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57040-2.pdf)
-## Of Cigarettes, High Heels, and Other Interesting Things#of_cigarettes_high_heels_and_other_interesting_things
+## Of Cigarettes, High Heels, and Other Interesting Things
 ### **Marcel Danesi** 
 
 
@@ -12192,7 +12192,7 @@ Students and other interested readers will find here a non-technical but concept
 
 
  [![Of Cigarettes, High Heels, and Other Interesting Things](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1057%2F978-1-349-95348-6.pdf)
-## Multimedia Big Data Computing for IoT Applications#multimedia_big_data_computing_for_iot_applications
+## Multimedia Big Data Computing for IoT Applications
 ### **Sudeep Tanwar, Sudhanshu Tyagi, Neeraj Kumar** 
 
 
@@ -12205,7 +12205,7 @@ Students and other interested readers will find here a non-technical but concept
 
 
  [![Multimedia Big Data Computing for IoT Applications](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-8759-3.pdf)
-## An Introduction to Soil Mechanics#an_introduction_to_soil_mechanics
+## An Introduction to Soil Mechanics
 ### **Arnold Verruijt** 
 
 
@@ -12227,7 +12227,7 @@ Professor at Dept. of Civil, Environmental, and Geo-Engineering, University of M
 
 
  [![An Introduction to Soil Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-61185-3.pdf)
-## Analytical Corporate Finance#analytical_corporate_finance
+## Analytical Corporate Finance
 ### **Angelo Corelli** 
 
 
@@ -12239,7 +12239,7 @@ Professor at Dept. of Civil, Environmental, and Geo-Engineering, University of M
 
 
  [![Analytical Corporate Finance](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-95762-3.pdf)
-## Introductory Computer Forensics#introductory_computer_forensics
+## Introductory Computer Forensics
 ### **Xiaodong Lin** 
 
 
@@ -12259,7 +12259,7 @@ This textbook is intended for upper undergraduate and graduate-level students wh
 
 
  [![Introductory Computer Forensics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00581-8.pdf)
-## Concise Guide to Databases#concise_guide_to_databases
+## Concise Guide to Databases
 ### **Peter Lake, Paul Crowther** 
 
 
@@ -12285,7 +12285,7 @@ With its learning-by-doing approach, supported by both theoretical and practical
 
 
  [![Concise Guide to Databases](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5601-7.pdf)
-## Fundamentals of Solid State Engineering#fundamentals_of_solid_state_engineering
+## Fundamentals of Solid State Engineering
 ### **Manijeh Razeghi** 
 
 
@@ -12307,7 +12307,7 @@ With its learning-by-doing approach, supported by both theoretical and practical
 
 
  [![Fundamentals of Solid State Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-75708-7.pdf)
-## Eye Tracking Methodology#eye_tracking_methodology
+## Eye Tracking Methodology
 ### **Andrew T. Duchowski** 
 
 
@@ -12325,7 +12325,7 @@ Stefan Robila, reviewing the second edition says, “The book is written in an e
 
 
  [![Eye Tracking Methodology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57883-5.pdf)
-## Building Energy Modeling with OpenStudio#building_energy_modeling_with_openstudio
+## Building Energy Modeling with OpenStudio
 ### **Larry Brackney, Andrew Parker, Daniel Macumber, Kyle Benne** 
 
 
@@ -12352,7 +12352,7 @@ Stefan Robila, reviewing the second edition says, “The book is written in an e
 
 
  [![Building Energy Modeling with OpenStudio](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-77809-9.pdf)
-## Control Engineering: MATLAB Exercises#control_engineering_matlab_exercises
+## Control Engineering: MATLAB Exercises
 ### **László Keviczky, Ruth Bars, Jenő Hetthéssy, Csilla Bányász** 
 
 
@@ -12366,7 +12366,7 @@ Stefan Robila, reviewing the second edition says, “The book is written in an e
 
 
  [![Control Engineering: MATLAB Exercises](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-10-8321-1.pdf)
-## An Introduction to Zooarchaeology#an_introduction_to_zooarchaeology
+## An Introduction to Zooarchaeology
 ### **Diane Gifford-Gonzalez** 
 
 
@@ -12378,7 +12378,7 @@ Stefan Robila, reviewing the second edition says, “The book is written in an e
 
 
  [![An Introduction to Zooarchaeology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-65682-3.pdf)
-## Business Process Management Cases#business_process_management_cases
+## Business Process Management Cases
 ### **Jan vom Brocke, Jan Mendling** 
 
 
@@ -12390,7 +12390,7 @@ Stefan Robila, reviewing the second edition says, “The book is written in an e
 
 
  [![Business Process Management Cases](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-58307-5.pdf)
-## Handbook of Marriage and the Family#handbook_of_marriage_and_the_family
+## Handbook of Marriage and the Family
 ### **Gary W. Peterson, Kevin R. Bush** 
 
 
@@ -12413,7 +12413,7 @@ Like its predecessors, this new edition of the *Handbook of Marriage and the Fam
 
 
  [![Handbook of Marriage and the Family](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-3987-5.pdf)
-## Design Research in Information Systems#design_research_in_information_systems
+## Design Research in Information Systems
 ### **Alan Hevner, Samir Chatterjee** 
 
 
@@ -12431,7 +12431,7 @@ Later chapters explore integrating action research with design research, design 
 
 
  [![Design Research in Information Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-5653-8.pdf)
-## International Perspectives on Psychotherapy#international_perspectives_on_psychotherapy
+## International Perspectives on Psychotherapy
 ### **Stefan G. Hofmann** 
 
 
@@ -12457,7 +12457,7 @@ The audience for *Clinical Psychology across the World* includes advanced underg
 
 
  [![International Perspectives on Psychotherapy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-56194-3.pdf)
-## Mass Spectrometry#mass_spectrometry
+## Mass Spectrometry
 ### **Jürgen H Gross** 
 
 
@@ -12486,7 +12486,7 @@ The audience for *Clinical Psychology across the World* includes advanced underg
 
 
  [![Mass Spectrometry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-54398-7.pdf)
-## Systems Programming in Unix/Linux#systems_programming_in_unix_linux
+## Systems Programming in Unix/Linux
 ### **K.C. Wang** 
 
 
@@ -12501,7 +12501,7 @@ Systems Programming in Unix/Linux provides a wide range of knowledge about compu
 
 
  [![Systems Programming in Unix/Linux](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-92429-8.pdf)
-## Evidence-Based Practice in Clinical Social Work#evidence_based_practice_in_clinical_social_work
+## Evidence-Based Practice in Clinical Social Work
 ### **James W. Drisko, Melissa D. Grady** 
 
 
@@ -12533,7 +12533,7 @@ In addition, this practice-building reference:
 
 
  [![Evidence-Based Practice in Clinical Social Work](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-15224-6.pdf)
-## International Handbook of Historical Archaeology#international_handbook_of_historical_archaeology
+## International Handbook of Historical Archaeology
 ### **David  Gaimster, Teresita Majewski** 
 
 
@@ -12547,7 +12547,7 @@ In addition, this practice-building reference:
 
 
  [![International Handbook of Historical Archaeology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-72071-5.pdf)
-## Cardiovascular Biomechanics#cardiovascular_biomechanics
+## Cardiovascular Biomechanics
 ### **Peter R. Hoskins, Patricia V. Lawford, Barry J. Doyle** 
 
 
@@ -12565,7 +12565,7 @@ Written for undergraduate and postgraduate students and including sample problem
 
 
  [![Cardiovascular Biomechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46407-7.pdf)
-## Polymer Synthesis: Theory and Practice#polymer_synthesis_theory_and_practice
+## Polymer Synthesis: Theory and Practice
 ### **Dietrich Braun, Harald Cherdron, Matthias Rehahn, Helmut Ritter, Brigitte Voit** 
 
 
@@ -12581,7 +12581,7 @@ The 5th edition contains numerous changes: In recent years, so-called functional
 
 
  [![Polymer Synthesis: Theory and Practice](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-28980-4.pdf)
-## Structural Dynamics#structural_dynamics
+## Structural Dynamics
 ### **Mario Paz, Young Hoon Kim** 
 
 
@@ -12604,7 +12604,7 @@ This text is essential for civil engineering students. Professional civil engine
 
 
  [![Structural Dynamics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-94743-3.pdf)
-## Probability#probability
+## Probability
 ### **Jim Pitman** 
 
 
@@ -12617,7 +12617,7 @@ The most valuable thing for students to learn from a course like this is how to 
 
 
  [![Probability](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4612-4374-8.pdf)
-## Reading, Writing, and Proving#reading_writing_and_proving
+## Reading, Writing, and Proving
 ### **Ulrich Daepp, Pamela Gorkin** 
 
 
@@ -12645,7 +12645,7 @@ From the reviews of the First Edition:
 
 
  [![Reading, Writing, and Proving](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9479-0.pdf)
-## Methods of Mathematical Modelling#methods_of_mathematical_modelling
+## Methods of Mathematical Modelling
 ### **Thomas Witelski, Mark Bowen** 
 
 
@@ -12663,7 +12663,7 @@ Chapters 1 to 4 cover essential topics in ordinary differential equations, trans
 
 
  [![Methods of Mathematical Modelling](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-23042-9.pdf)
-## Data Structures and Algorithms with Python#data_structures_and_algorithms_with_python
+## Data Structures and Algorithms with Python
 ### **Kent D. Lee, Steve Hubbard** 
 
 
@@ -12689,7 +12689,7 @@ Students of computer science will find this clear and concise textbook to be inv
 
 
  [![Data Structures and Algorithms with Python](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-13072-9.pdf)
-## School Leadership and Educational Change in Singapore#school_leadership_and_educational_change_in_singapore
+## School Leadership and Educational Change in Singapore
 ### **Benjamin Wong, Salleh Hairon, Pak Tee Ng** 
 
 
@@ -12705,7 +12705,7 @@ The chapters first provide a background to the theme under examination and a the
 
 
  [![School Leadership and Educational Change in Singapore](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-74746-0.pdf)
-## Principles of Polymer Chemistry#principles_of_polymer_chemistry
+## Principles of Polymer Chemistry
 ### **A. Ravve** 
 
 
@@ -12725,7 +12725,7 @@ This textbook contains review questions at the end of every chaper, references f
 
 
  [![Principles of Polymer Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-2212-9.pdf)
-## UML @ Classroom#uml_classroom
+## UML @ Classroom
 ### **Martina Seidl, Marion Scholz, Christian Huemer, Gerti Kappel** 
 
 
@@ -12743,7 +12743,7 @@ Overall, the book provides a solid foundation and deeper understanding of the mo
 
 
  [![UML @ Classroom](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-12742-2.pdf)
-## Psychology, Religion, and Spirituality#psychology_religion_and_spirituality
+## Psychology, Religion, and Spirituality
 ### **James M. Nelson** 
 
 
@@ -12782,7 +12782,7 @@ These are valuable perspectives for graduate or undergraduate courses in the psy
 
 
  [![Psychology, Religion, and Spirituality](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-87573-6.pdf)
-## Integrative Human Biochemistry#integrative_human_biochemistry
+## Integrative Human Biochemistry
 ### **Andrea T. da Poian, Miguel A. R. B. Castanho** 
 
 
@@ -12817,7 +12817,7 @@ an biochemistry and will be a faithful companion to health science students foll
 
 
  [![Integrative Human Biochemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-3058-6.pdf)
-## Phylogenomics#phylogenomics
+## Phylogenomics
 ### **Christoph Bleidorn** 
 
 
@@ -12831,7 +12831,7 @@ an biochemistry and will be a faithful companion to health science students foll
 
 
  [![Phylogenomics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-54064-1.pdf)
-## Engineering Electromagnetics#engineering_electromagnetics
+## Engineering Electromagnetics
 ### **Nathan Ida** 
 
 
@@ -12857,7 +12857,7 @@ The new edition includes: updated end of chapter problems; a new introduction to
 
 
  [![Engineering Electromagnetics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-07806-9.pdf)
-## Practical Electrical Engineering#practical_electrical_engineering
+## Practical Electrical Engineering
 ### **Sergey N. Makarov, Reinhold Ludwig, Stephen J. Bitar** 
 
 
@@ -12876,7 +12876,7 @@ The new edition includes: updated end of chapter problems; a new introduction to
 
 
  [![Practical Electrical Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-21173-2.pdf)
-## Engineering Mechanics 1#engineering_mechanics_1
+## Engineering Mechanics 1
 ### **Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang A. Wall, Nimal Rajapakse** 
 
 
@@ -12902,7 +12902,7 @@ Now in its second English edition, this material has been in use for two decades
 
 
  [![Engineering Mechanics 1](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-30319-7.pdf)
-## Exam Survival Guide: Physical Chemistry#exam_survival_guide_physical_chemistry
+## Exam Survival Guide: Physical Chemistry
 ### **Jochen Vogt** 
 
 
@@ -12917,7 +12917,7 @@ The book addresses students at the (upper) undergraduate level, as well as tutor
 
 
  [![Exam Survival Guide: Physical Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-49810-2.pdf)
-## Fatigue of Structures and Materials#fatigue_of_structures_and_materials
+## Fatigue of Structures and Materials
 ### **Jaap Schijve** 
 
 
@@ -12932,7 +12932,7 @@ The first edition of this book was well received and has been used extensively i
 
 
  [![Fatigue of Structures and Materials](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6808-9.pdf)
-## Alternative Energy Sources#alternative_energy_sources
+## Alternative Energy Sources
 ### **Efstathios E. (Stathis) Michaelides** 
 
 
@@ -12954,7 +12954,7 @@ The fourteen chapters in the book have been chosen so that one may fit a semeste
 
 
  [![Alternative Energy Sources](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-20951-2.pdf)
-## Survival Analysis#survival_analysis
+## Survival Analysis
 ### **David G. Kleinbaum, Mitchel Klein** 
 
 
@@ -12974,7 +12974,7 @@ Mitchel Klein is Research Assistant Professor with a joint appointment in the De
 
 
  [![Survival Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-6646-9.pdf)
-## Policing and Minority Communities#policing_and_minority_communities
+## Policing and Minority Communities
 ### **James F. Albrecht, Garth den Heyer, Perry Stanislas** 
 
 
@@ -12990,7 +12990,7 @@ Acknowledging the consistency of this concern despite geographic location, ethni
 
 
  [![Policing and Minority Communities](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-19182-5.pdf)
-## Calculus With Applications#calculus_with_applications
+## Calculus With Applications
 ### **Peter D. Lax, Maria Shea Terrell** 
 
 
@@ -13004,7 +13004,7 @@ Acknowledging the consistency of this concern despite geographic location, ethni
 
 
  [![Calculus With Applications](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7946-8.pdf)
-## Handbook Of Biological Confocal Microscopy#handbook_of_biological_confocal_microscopy
+## Handbook Of Biological Confocal Microscopy
 ### **James B. Pawley** 
 
 
@@ -13016,7 +13016,7 @@ Acknowledging the consistency of this concern despite geographic location, ethni
 
 
  [![Handbook Of Biological Confocal Microscopy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-45524-2.pdf)
-## Clinical Data Analysis on a Pocket Calculator#clinical_data_analysis_on_a_pocket_calculator
+## Clinical Data Analysis on a Pocket Calculator
 ### **Ton J. Cleophas, Aeilko H. Zwinderman** 
 
 
@@ -13042,7 +13042,7 @@ For the readers' convenience the chapters have been reclassified according to th
 
 
  [![Clinical Data Analysis on a Pocket Calculator](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27104-0.pdf)
-## Engineering Mechanics 2#engineering_mechanics_2
+## Engineering Mechanics 2
 ### **Dietmar Gross, Werner Hauger, Jörg Schröder, Wolfgang A. Wall, Javier Bonet** 
 
 
@@ -13057,7 +13057,7 @@ Volume 1 deals with Statics and Volume 3 treats Particle Dynamics and Rigid Body
 
 
  [![Engineering Mechanics 2](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-56272-7.pdf)
-## Internet of Things From Hype to Reality#internet_of_things_from_hype_to_reality
+## Internet of Things From Hype to Reality
 ### **Ammar Rayes, Samer Salam** 
 
 
@@ -13071,7 +13071,7 @@ Volume 1 deals with Statics and Volume 3 treats Particle Dynamics and Rigid Body
 
 
  [![Internet of Things From Hype to Reality](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99516-8.pdf)
-## Mapping Global Theatre Histories#mapping_global_theatre_histories
+## Mapping Global Theatre Histories
 ### **Mark Pizzato** 
 
 
@@ -13083,7 +13083,7 @@ Volume 1 deals with Statics and Volume 3 treats Particle Dynamics and Rigid Body
 
 
  [![Mapping Global Theatre Histories](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-12727-5.pdf)
-## Principles of Microeconomics#principles_of_microeconomics
+## Principles of Microeconomics
 ### **Martin Kolmar** 
 
 
@@ -13098,7 +13098,7 @@ A companion workbook is available which features a wide variety of exercises, ra
 
 
  [![Principles of Microeconomics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57589-6.pdf)
-## Transmission Electron Microscopy#transmission_electron_microscopy
+## Transmission Electron Microscopy
 ### **David B. Williams, C. Barry Carter** 
 
 
@@ -13110,7 +13110,7 @@ A companion workbook is available which features a wide variety of exercises, ra
 
 
  [![Transmission Electron Microscopy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4757-2519-3.pdf)
-## Statistical Analysis and Data Display#statistical_analysis_and_data_display
+## Statistical Analysis and Data Display
 ### **Richard M. Heiberger, Burt Holland** 
 
 
@@ -13246,7 +13246,7 @@ document preparation.
 
 
  [![Statistical Analysis and Data Display](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2122-5.pdf)
-## Representation Theory#representation_theory
+## Representation Theory
 ### **William Fulton, Joe Harris** 
 
 
@@ -13258,7 +13258,7 @@ document preparation.
 
 
  [![Representation Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4612-0979-9.pdf)
-## Spine Surgery#spine_surgery
+## Spine Surgery
 ### **Bernhard Meyer, Michael Rauschmann** 
 
 
@@ -13274,7 +13274,7 @@ document preparation.
 
 
  [![Spine Surgery](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-98875-7.pdf)
-## Elementary Mechanics Using Python#elementary_mechanics_using_python
+## Elementary Mechanics Using Python
 ### **Anders Malthe-Sørenssen** 
 
 
@@ -13294,7 +13294,7 @@ Last but not least, each chapter is accompanied by an extensive set of course-te
 
 
  [![Elementary Mechanics Using Python](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-19596-4.pdf)
-## Introduction to Logic Circuits & Logic Design with VHDL #introduction_to_logic_circuits_logic_design_with_vhdl
+## Introduction to Logic Circuits & Logic Design with VHDL 
 ### **Brock J. LaMeres** 
 
 
@@ -13312,7 +13312,7 @@ Last but not least, each chapter is accompanied by an extensive set of course-te
 
 
  [![Introduction to Logic Circuits & Logic Design with VHDL ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-12489-2.pdf)
-## Astronautics#astronautics
+## Astronautics
 ### **Ulrich Walter** 
 
 
@@ -13326,7 +13326,7 @@ Last but not least, each chapter is accompanied by an extensive set of course-te
 
 
  [![Astronautics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-74373-8.pdf)
-## Basics of Laser Physics#basics_of_laser_physics
+## Basics of Laser Physics
 ### **Karl F. Renk** 
 
 
@@ -13344,7 +13344,7 @@ Last but not least, each chapter is accompanied by an extensive set of course-te
 
 
  [![Basics of Laser Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-50651-7.pdf)
-## Fundamentals of Java Programming#fundamentals_of_java_programming
+## Fundamentals of Java Programming
 ### **Mitsunori Ogihara** 
 
 
@@ -13358,7 +13358,7 @@ Teaching resources include solutions to the exercises, as well as digital lectur
 
 
  [![Fundamentals of Java Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-89491-1.pdf)
-## Empathetic Space on Screen#empathetic_space_on_screen
+## Empathetic Space on Screen
 ### **Amedeo D'Adamo** 
 
 
@@ -13372,7 +13372,7 @@ Teaching resources include solutions to the exercises, as well as digital lectur
 
 
  [![Empathetic Space on Screen](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66772-0.pdf)
-## Breast Cancer#breast_cancer
+## Breast Cancer
 ### **Umberto Veronesi, Aron Goldhirsch, Paolo Veronesi, Oreste Davide Gentilini, Maria Cristina Leonardi** 
 
 
@@ -13384,7 +13384,7 @@ Teaching resources include solutions to the exercises, as well as digital lectur
 
 
  [![Breast Cancer](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48848-6.pdf)
-## Introduction to Logic Circuits & Logic Design with VHDL #introduction_to_logic_circuits_logic_design_with_vhdl
+## Introduction to Logic Circuits & Logic Design with VHDL 
 ### **Brock J. LaMeres** 
 
 
@@ -13402,7 +13402,7 @@ Teaching resources include solutions to the exercises, as well as digital lectur
 
 
  [![Introduction to Logic Circuits & Logic Design with VHDL ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-34195-8.pdf)
-## Physical Asset Management#physical_asset_management
+## Physical Asset Management
 ### **Nicholas Anthony John Hastings** 
 
 
@@ -13425,7 +13425,7 @@ Written for practitioners and students in asset management, this textbook provid
 
 
  [![Physical Asset Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-14777-2.pdf)
-## A Pythagorean Introduction to Number Theory#a_pythagorean_introduction_to_number_theory
+## A Pythagorean Introduction to Number Theory
 ### **Ramin Takloo-Bighash** 
 
 
@@ -13441,7 +13441,7 @@ Progressing from the fundamentals of number theory through to Gauss sums and qua
 
 
  [![A Pythagorean Introduction to Number Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-02604-2.pdf)
-## Primer on the Rheumatic Diseases#primer_on_the_rheumatic_diseases
+## Primer on the Rheumatic Diseases
 ### **John H. Klippel, John H. Stone, Leslie J. Crofford, Patience H. White** 
 
 
@@ -13455,7 +13455,7 @@ Progressing from the fundamentals of number theory through to Gauss sums and qua
 
 
  [![Primer on the Rheumatic Diseases](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-68566-3.pdf)
-## Introduction to Plasma Physics and Controlled Fusion#introduction_to_plasma_physics_and_controlled_fusion
+## Introduction to Plasma Physics and Controlled Fusion
 ### **Francis F. Chen** 
 
 
@@ -13475,7 +13475,7 @@ This new revised edition remains an essential text for those new to the field an
 
 
  [![Introduction to Plasma Physics and Controlled Fusion](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-22309-4.pdf)
-## Plant Anatomy#plant_anatomy
+## Plant Anatomy
 ### **Richard Crang, Sheila Lyons-Sobaski, Robert Wise** 
 
 
@@ -13493,7 +13493,7 @@ Each of the 19 richly-illustrated chapters has an abstract, a list of keywords, 
 
 
  [![Plant Anatomy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-77315-5.pdf)
-## Knowledge Management#knowledge_management
+## Knowledge Management
 ### **Klaus North, Gita Kumta** 
 
 
@@ -13507,7 +13507,7 @@ The book is intended not only for academic education but also as an essential gu
 
 
  [![Knowledge Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-59978-6.pdf)
-## Strategic Human Resource Management and Employment Relations#strategic_human_resource_management_and_employment_relations
+## Strategic Human Resource Management and Employment Relations
 ### **Ashish Malik** 
 
 
@@ -13520,7 +13520,7 @@ The first part of the book provides a very focussed research commentary highligh
 
 
  [![Strategic Human Resource Management and Employment Relations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-0399-9.pdf)
-## Modelling Computing Systems#modelling_computing_systems
+## Modelling Computing Systems
 ### **Faron Moller, Georg Struth** 
 
 
@@ -13544,7 +13544,7 @@ This clearly written and classroom-tested textbook/reference is essential readin
 
 
  [![Modelling Computing Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-84800-322-4.pdf)
-## Market Research#market_research
+## Market Research
 ### **Erik Mooi, Marko Sarstedt, Irma Mooi-Reci** 
 
 
@@ -13560,7 +13560,7 @@ The book offers readers an overview of the entire market research process from a
 
 
  [![Market Research](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-10-5218-7.pdf)
-## Sustainable Supply Chains#sustainable_supply_chains
+## Sustainable Supply Chains
 ### **Yann Bouchery, Charles J. Corbett, Jan C. Fransoo, Tarkan Tan** 
 
 
@@ -13575,7 +13575,7 @@ This book is primarily intended to serve as a research-based textbook on sustain
 
 
  [![Sustainable Supply Chains](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-29791-0.pdf)
-## Quantum Mechanics for Pedestrians 1#quantum_mechanics_for_pedestrians_1
+## Quantum Mechanics for Pedestrians 1
 ### **Jochen Pade** 
 
 
@@ -13595,7 +13595,7 @@ The book is chiefly intended for student science teachers and all students of ph
 
 
  [![Quantum Mechanics for Pedestrians 1](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-00464-4.pdf)
-## A Concise Guide to Market Research#a_concise_guide_to_market_research
+## A Concise Guide to Market Research
 ### **Marko Sarstedt, Erik Mooi** 
 
 
@@ -13625,7 +13625,7 @@ The new edition uses IBM SPSS version 25 and offers the following new features:
 
 
  [![A Concise Guide to Market Research](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-56707-4.pdf)
-## Analyzing Qualitative Data with MAXQDA#analyzing_qualitative_data_with_maxqda
+## Analyzing Qualitative Data with MAXQDA
 ### **Udo Kuckartz, Stefan Rädiker** 
 
 
@@ -13637,7 +13637,7 @@ The new edition uses IBM SPSS version 25 and offers the following new features:
 
 
  [![Analyzing Qualitative Data with MAXQDA](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-15671-8.pdf)
-## Introduction to Electronic Commerce and Social Commerce#introduction_to_electronic_commerce_and_social_commerce
+## Introduction to Electronic Commerce and Social Commerce
 ### **Efraim Turban, Judy Whiteside, David King, Jon Outland** 
 
 
@@ -13653,7 +13653,7 @@ The book is organized into 12 chapters grouped into 6 parts. Part 1 is an Introd
 
 
  [![Introduction to Electronic Commerce and Social Commerce](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-50091-1.pdf)
-## Physics of Semiconductor Devices#physics_of_semiconductor_devices
+## Physics of Semiconductor Devices
 ### **Massimo Rudan** 
 
 
@@ -13667,7 +13667,7 @@ The book is organized into 12 chapters grouped into 6 parts. Part 1 is an Introd
 
 
  [![Physics of Semiconductor Devices](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1151-6.pdf)
-## Group Theory#group_theory
+## Group Theory
 ### **** 
 
 
@@ -13681,7 +13681,7 @@ The book is organized into 12 chapters grouped into 6 parts. Part 1 is an Introd
 
 
  [![Group Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-540-32899-5.pdf)
-## Mathematical Logic#mathematical_logic
+## Mathematical Logic
 ### **Roman Kossak** 
 
 
@@ -13701,7 +13701,7 @@ The book can be used as an introduction to model theory, but unlike standard tex
 
 
  [![Mathematical Logic](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-97298-5.pdf)
-## Business Ethics - A Philosophical and Behavioral Approach#business_ethics_a_philosophical_and_behavioral_approach
+## Business Ethics - A Philosophical and Behavioral Approach
 ### **Christian A. Conrad** 
 
 
@@ -13719,7 +13719,7 @@ Following a textbook structure, the book first derives knowledge from scientific
 
 
  [![Business Ethics - A Philosophical and Behavioral Approach](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91575-3.pdf)
-## Essentials of Food Science#essentials_of_food_science
+## Essentials of Food Science
 ### **Vickie A. Vaclavik, Elizabeth W. Christian** 
 
 
@@ -13747,7 +13747,7 @@ Appendices at the end of the book include a variety of current topics such as Bi
 
 
  [![Essentials of Food Science](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-9138-5.pdf)
-## Fundamentals of Structural Engineering#fundamentals_of_structural_engineering
+## Fundamentals of Structural Engineering
 ### **Jerome J. Connor, Susan Faraji** 
 
 
@@ -13767,7 +13767,7 @@ By covering theoretical and practical aspects of smart device design, this book 
 
 
  [![Fundamentals of Structural Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-24331-3.pdf)
-## The A-Z of the PhD Trajectory#the_a_z_of_the_phd_trajectory
+## The A-Z of the PhD Trajectory
 ### **Eva O. L. Lantsoght** 
 
 
@@ -13781,7 +13781,7 @@ By covering theoretical and practical aspects of smart device design, this book 
 
 
  [![The A-Z of the PhD Trajectory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-77425-1.pdf)
-## Machine Learning in Medicine - a Complete Overview#machine_learning_in_medicine_a_complete_overview
+## Machine Learning in Medicine - a Complete Overview
 ### **Ton J. Cleophas, Aeilko H. Zwinderman** 
 
 
@@ -13801,7 +13801,7 @@ Each chapter starts with purposes and scientific questions. Then, step-by-step a
 
 
  [![Machine Learning in Medicine - a Complete Overview](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15195-3.pdf)
-## Linear Algebra and Analytic Geometry for Physical Sciences#linear_algebra_and_analytic_geometry_for_physical_sciences
+## Linear Algebra and Analytic Geometry for Physical Sciences
 ### **Giovanni Landi, Alessandro Zampini** 
 
 
@@ -13813,7 +13813,7 @@ Each chapter starts with purposes and scientific questions. Then, step-by-step a
 
 
  [![Linear Algebra and Analytic Geometry for Physical Sciences](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-78361-1.pdf)
-## Introduction to Data Science#introduction_to_data_science
+## Introduction to Data Science
 ### **Laura Igual, Santi Seguí** 
 
 
@@ -13841,7 +13841,7 @@ This practically-focused textbook provides an ideal introduction to the field fo
 
 
  [![Introduction to Data Science](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-50017-1.pdf)
-## Introduction to Statistics and Data Analysis #introduction_to_statistics_and_data_analysis
+## Introduction to Statistics and Data Analysis 
 ### **Christian Heumann, Michael Schomaker, Shalabh** 
 
 
@@ -13855,7 +13855,7 @@ The text is primarily intended for undergraduate students in disciplines like bu
 
 
  [![Introduction to Statistics and Data Analysis ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46162-5.pdf)
-## Guide to Competitive Programming#guide_to_competitive_programming
+## Guide to Competitive Programming
 ### **Antti Laaksonen** 
 
 
@@ -13884,7 +13884,7 @@ This easy-to-follow guide is an ideal reference for all students wishing to lear
 
 
  [![Guide to Competitive Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72547-5.pdf)
-## Life Cycle Assessment#life_cycle_assessment
+## Life Cycle Assessment
 ### **Michael Z. Hauschild, Ralph K. Rosenbaum, Stig Irving Olsen** 
 
 
@@ -13899,7 +13899,7 @@ This easy-to-follow guide is an ideal reference for all students wishing to lear
 
 
  [![Life Cycle Assessment](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-56475-3.pdf)
-## Managing Sustainable Business#managing_sustainable_business
+## Managing Sustainable Business
 ### **Gilbert G. Lenssen, N. Craig Smith** 
 
 
@@ -13921,7 +13921,7 @@ The approach helps broaden the understanding of what sustainable performance mea
 
 
  [![Managing Sustainable Business](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-024-1144-7.pdf)
-## Elementary Analysis#elementary_analysis
+## Elementary Analysis
 ### **Kenneth A. Ross** 
 
 
@@ -13944,7 +13944,7 @@ Review from the first edition:
 
 
  [![Elementary Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6271-2.pdf)
-## Modeling Life#modeling_life
+## Modeling Life
 ### **Alan Garfinkel, Jane Shevtsov, Yina Guo** 
 
 
@@ -13956,7 +13956,7 @@ Review from the first edition:
 
 
  [![Modeling Life](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-59731-7.pdf)
-## Introduction to Partial Differential Equations#introduction_to_partial_differential_equations
+## Introduction to Partial Differential Equations
 ### **Peter J. Olver** 
 
 
@@ -13978,7 +13978,7 @@ A Solutions Manual for instrucors is available by clicking on "Selected Solution
 
 
  [![Introduction to Partial Differential Equations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-02099-0.pdf)
-## Physics of Oscillations and Waves#physics_of_oscillations_and_waves
+## Physics of Oscillations and Waves
 ### **Arnt Inge Vistnes** 
 
 
@@ -13993,7 +13993,7 @@ A Solutions Manual for instrucors is available by clicking on "Selected Solution
 
 
  [![Physics of Oscillations and Waves](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72314-3.pdf)
-## Brewing Science: A Multidisciplinary Approach#brewing_science_a_multidisciplinary_approach
+## Brewing Science: A Multidisciplinary Approach
 ### **Michael Mosher, Kenneth Trantham** 
 
 
@@ -14013,7 +14013,7 @@ Each chapter in this textbook includes a sample of related laboratory exercises 
 
 
  [![Brewing Science: A Multidisciplinary Approach](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-46394-0.pdf)
-## Robotics#robotics
+## Robotics
 ### **Matjaž Mihelj, Tadej Bajd, Aleš Ude, Jadran Lenarčič, Aleš Stanovnik, Marko Munih, Jure Rejc, Sebastjan Šlajpah** 
 
 
@@ -14040,7 +14040,7 @@ The 1st edition of this book won the Outstanding Academic Title distinction from
 
 
  [![Robotics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72911-4.pdf)
-## Introductory Statistics with R#introductory_statistics_with_r
+## Introductory Statistics with R
 ### **Peter Dalgaard** 
 
 
@@ -14062,7 +14062,7 @@ Peter Dalgaard is associate professor at the Department of Biostatistics at the 
 
 
  [![Introductory Statistics with R](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-79054-1.pdf)
-## Introduction to Programming with Fortran#introduction_to_programming_with_fortran
+## Introduction to Programming with Fortran
 ### **Ian Chivers, Jane Sleightholme** 
 
 
@@ -14090,7 +14090,7 @@ The authors have been teaching and supporting Fortran and related areas for over
 
 
  [![Introduction to Programming with Fortran](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-75502-1.pdf)
-## Witnessing Torture#witnessing_torture
+## Witnessing Torture
 ### **Alexandra S. Moore, Elizabeth Swanson** 
 
 
@@ -14104,7 +14104,7 @@ The authors have been teaching and supporting Fortran and related areas for over
 
 
  [![Witnessing Torture](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-74965-5.pdf)
-## Robotics, Vision and Control#robotics_vision_and_control
+## Robotics, Vision and Control
 ### **Peter Corke** 
 
 
@@ -14122,7 +14122,7 @@ The purpose of this book is to expand on the tutorial material provided with the
 
 
  [![Robotics, Vision and Control](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-20144-8.pdf)
-## Transmission Electron Microscopy#transmission_electron_microscopy
+## Transmission Electron Microscopy
 ### **David B. Williams, C. Barry Carter** 
 
 
@@ -14162,7 +14162,7 @@ Praise for the first edition:
 
 
  [![Transmission Electron Microscopy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-76501-3.pdf)
-## Criminal Justice and Mental Health#criminal_justice_and_mental_health
+## Criminal Justice and Mental Health
 ### **Jada Hector, David Khey** 
 
 
@@ -14182,7 +14182,7 @@ This work will be of interest to students of criminology and criminal justice wi
 
 
  [![Criminal Justice and Mental Health](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-76442-9.pdf)
-## Irrigation and Drainage Engineering#irrigation_and_drainage_engineering
+## Irrigation and Drainage Engineering
 ### **Peter Waller, Muluneh Yitayew** 
 
 
@@ -14196,7 +14196,7 @@ This work will be of interest to students of criminology and criminal justice wi
 
 
  [![Irrigation and Drainage Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-05699-9.pdf)
-## Media and Digital Management#media_and_digital_management
+## Media and Digital Management
 ### **Eli M. Noam** 
 
 
@@ -14212,7 +14212,7 @@ In the process, this book becomes an indispensable resource for those aiming for
 
 
  [![Media and Digital Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72000-5.pdf)
-## Food Fraud Prevention#food_fraud_prevention
+## Food Fraud Prevention
 ### **John W. Spink** 
 
 
@@ -14227,7 +14227,7 @@ In the process, this book becomes an indispensable resource for those aiming for
 
 
  [![Food Fraud Prevention](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-9621-6.pdf)
-## Applied Bioinformatics#applied_bioinformatics
+## Applied Bioinformatics
 ### **Paul M. Selzer, Richard J. Marhöfer, Oliver Koch** 
 
 
@@ -14239,7 +14239,7 @@ In the process, this book becomes an indispensable resource for those aiming for
 
 
  [![Applied Bioinformatics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68301-0.pdf)
-## Disability and Vocational Rehabilitation in Rural Settings#disability_and_vocational_rehabilitation_in_rural_settings
+## Disability and Vocational Rehabilitation in Rural Settings
 ### **Debra A. Harley, Noel A. Ysasi, Malachy L. Bishop, Allison R. Fleming** 
 
 
@@ -14267,7 +14267,7 @@ The Asia and Pacific region: rural-urban impact on disability.
 
 
  [![Disability and Vocational Rehabilitation in Rural Settings](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-64786-9.pdf)
-## Applied Linear Algebra#applied_linear_algebra
+## Applied Linear Algebra
 ### **Peter J. Olver, Chehrzad Shakiban** 
 
 
@@ -14283,7 +14283,7 @@ Providing an extensive treatment of essential topics such as Gaussian eliminatio
 
 
  [![Applied Linear Algebra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91041-3.pdf)
-## Teaching Medicine and Medical Ethics Using Popular Culture#teaching_medicine_and_medical_ethics_using_popular_culture
+## Teaching Medicine and Medical Ethics Using Popular Culture
 ### **Evie Kendal, Basia Diug** 
 
 
@@ -14296,7 +14296,7 @@ Providing an extensive treatment of essential topics such as Gaussian eliminatio
 
 
  [![Teaching Medicine and Medical Ethics Using Popular Culture](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-65451-5.pdf)
-## Readings in Formal Epistemology#readings_in_formal_epistemology
+## Readings in Formal Epistemology
 ### **Horacio Arló-Costa, Vincent F. Hendricks, Johan van Benthem** 
 
 
@@ -14312,7 +14312,7 @@ Providing an extensive treatment of essential topics such as Gaussian eliminatio
 
 
  [![Readings in Formal Epistemology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-20451-2.pdf)
-## Leadership Today#leadership_today
+## Leadership Today
 ### **Joan Marques, Satinder Dhiman** 
 
 
@@ -14333,7 +14333,7 @@ Featuring contributions form academics and professionals from around the world, 
 
 
  [![Leadership Today](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-31036-7.pdf)
-## Introduction to Deep Learning#introduction_to_deep_learning
+## Introduction to Deep Learning
 ### **Sandro Skansi** 
 
 
@@ -14361,7 +14361,7 @@ This clearly written and lively primer on deep learning is essential reading for
 
 
  [![Introduction to Deep Learning](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73004-2.pdf)
-## The Joy of Science#the_joy_of_science
+## The Joy of Science
 ### **Richard A. Lockshin** 
 
 
@@ -14373,7 +14373,7 @@ This clearly written and lively primer on deep learning is essential reading for
 
 
  [![The Joy of Science](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4020-6099-1.pdf)
-## Clinical Neuroanatomy: A Neurobehavioral Approach#clinical_neuroanatomy_a_neurobehavioral_approach
+## Clinical Neuroanatomy: A Neurobehavioral Approach
 ### **John E. Mendoza, Anne L. Foundas** 
 
 
@@ -14399,7 +14399,7 @@ This book begins with a traditional review of the basic internal and external mo
 
 
  [![Clinical Neuroanatomy: A Neurobehavioral Approach](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-36601-2.pdf)
-## A Clinical Guide to the Treatment of the Human Stress Response#a_clinical_guide_to_the_treatment_of_the_human_stress_response
+## A Clinical Guide to the Treatment of the Human Stress Response
 ### **George S. Everly, Jr., Jeffrey M. Lating** 
 
 
@@ -14435,7 +14435,7 @@ Students, practitioners, and researchers in the fields of psychology, psychiatry
 
 
  [![A Clinical Guide to the Treatment of the Human Stress Response](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-5538-7.pdf)
-## Philosophical and Mathematical Logic#philosophical_and_mathematical_logic
+## Philosophical and Mathematical Logic
 ### **Harrie de Swart** 
 
 
@@ -14447,7 +14447,7 @@ Students, practitioners, and researchers in the fields of psychology, psychiatry
 
 
  [![Philosophical and Mathematical Logic](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-03255-5.pdf)
-## Foundations of Behavioral Health#foundations_of_behavioral_health
+## Foundations of Behavioral Health
 ### **Bruce Lubotsky Levin, Ardis Hanson** 
 
 
@@ -14468,7 +14468,7 @@ An in-depth textbook for graduate students studying public health, behavioral he
 
 
  [![Foundations of Behavioral Health](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-18435-3.pdf)
-## Bayesian and Frequentist Regression Methods#bayesian_and_frequentist_regression_methods
+## Bayesian and Frequentist Regression Methods
 ### **Jon Wakefield** 
 
 
@@ -14481,7 +14481,7 @@ An in-depth textbook for graduate students studying public health, behavioral he
 
 
  [![Bayesian and Frequentist Regression Methods](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-0925-1.pdf)
-## Robotics, Vision and Control#robotics_vision_and_control
+## Robotics, Vision and Control
 ### **Peter Corke** 
 
 
@@ -14503,7 +14503,7 @@ OUSSAMA KHATIB, Stanford
 
 
  [![Robotics, Vision and Control](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-54413-7.pdf)
-## Electrical Machines#electrical_machines
+## Electrical Machines
 ### **Slobodan N. Vukosavic** 
 
 
@@ -14524,7 +14524,7 @@ This textbook is intended for undergraduate students of electrical engineering a
 
 
  [![Electrical Machines](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-0400-2.pdf)
-## Solar PV and Wind Energy Conversion Systems#solar_pv_and_wind_energy_conversion_systems
+## Solar PV and Wind Energy Conversion Systems
 ### **S. Sumathi, L. Ashok Kumar, P. Surekha** 
 
 
@@ -14553,7 +14553,7 @@ This book is intended for final year undergraduate, post-graduate and research s
 
 
  [![Solar PV and Wind Energy Conversion Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-14941-7.pdf)
-## Scanning Electron Microscopy and X-Ray Microanalysis#scanning_electron_microscopy_and_x_ray_microanalysis
+## Scanning Electron Microscopy and X-Ray Microanalysis
 ### **Joseph I. Goldstein, Dale E. Newbury, Joseph R. Michael, Nicholas W.M. Ritchie, John Henry J. Scott, David C. Joy** 
 
 
@@ -14580,7 +14580,7 @@ With 13 years between the publication of the third and fourth editions, new cove
 
 
  [![Scanning Electron Microscopy and X-Ray Microanalysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-6676-9.pdf)
-## Concepts, Methods and Practical Applications in Applied Demography#concepts_methods_and_practical_applications_in_applied_demography
+## Concepts, Methods and Practical Applications in Applied Demography
 ### **Richard K. Thomas** 
 
 
@@ -14596,7 +14596,7 @@ The first section reviews basic components of applied demography as a context fo
 
 
  [![Concepts, Methods and Practical Applications in Applied Demography](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-65439-3.pdf)
-## Differential Equations and Their Applications#differential_equations_and_their_applications
+## Differential Equations and Their Applications
 ### **Martin Braun** 
 
 
@@ -14612,7 +14612,7 @@ The development of new courses is a natural consequence of a high Ievel of excit
 
 
  [![Differential Equations and Their Applications](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4612-4360-1.pdf)
-## Brownian Motion, Martingales, and Stochastic Calculus #brownian_motion_martingales_and_stochastic_calculus
+## Brownian Motion, Martingales, and Stochastic Calculus 
 ### **Jean-François Le Gall** 
 
 
@@ -14626,7 +14626,7 @@ Beginning graduate or advanced undergraduate students will benefit from this det
 
 
  [![Brownian Motion, Martingales, and Stochastic Calculus ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-31089-3.pdf)
-## Global Supply Chain and Operations Management#global_supply_chain_and_operations_management
+## Global Supply Chain and Operations Management
 ### **Dmitry Ivanov, Alexander Tsipoulanidis, Jörn Schönberger** 
 
 
@@ -14642,7 +14642,7 @@ Providing readers with a working knowledge of global supply-chain and operations
 
 
  [![Global Supply Chain and Operations Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-94313-8.pdf)
-## Logistics#logistics
+## Logistics
 ### **Harald Gleissner, J. Christian Femerling** 
 
 
@@ -14666,7 +14666,7 @@ It features chapters on Principles of Logistics; Logistics Systems; Transport Sy
 
 
  [![Logistics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-01769-3.pdf)
-## Energy Economics#energy_economics
+## Energy Economics
 ### **Peter Zweifel, Aaron Praktiknjo, Georg Erdmann** 
 
 
@@ -14678,7 +14678,7 @@ It features chapters on Principles of Logistics; Logistics Systems; Transport Sy
 
 
  [![Energy Economics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-53022-1.pdf)
-## Introductory Time Series with R#introductory_time_series_with_r
+## Introductory Time Series with R
 ### **Andrew V. Metcalfe, Paul S.P. Cowpertwait** 
 
 
@@ -14696,7 +14696,7 @@ Paul Cowpertwait is an associate professor in mathematical sciences (analytics) 
 
 
  [![Introductory Time Series with R](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-88698-5.pdf)
-## Social Psychology in Action#social_psychology_in_action
+## Social Psychology in Action
 ### **Kai Sassenberg, Michael L.W.  Vliek** 
 
 
@@ -14725,7 +14725,7 @@ Among the topics explored:
 
 
  [![Social Psychology in Action](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-13788-5.pdf)
-## Energy and the Wealth of Nations#energy_and_the_wealth_of_nations
+## Energy and the Wealth of Nations
 ### **Charles A.S. Hall, Kent Klitgaard** 
 
 
@@ -14749,7 +14749,7 @@ For the past 150 years, economics has been treated as a social science in which 
 
 
  [![Energy and the Wealth of Nations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66219-0.pdf)
-## Guide to Computer Network Security#guide_to_computer_network_security
+## Guide to Computer Network Security
 ### **Joseph Migga Kizza** 
 
 
@@ -14790,7 +14790,7 @@ This essential guide serves as both a textbook and a reference “toolbox” on 
 
 
  [![Guide to Computer Network Security](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55606-2.pdf)
-## Quick Start Guide to Verilog#quick_start_guide_to_verilog
+## Quick Start Guide to Verilog
 ### **Brock J. LaMeres** 
 
 
@@ -14810,7 +14810,7 @@ This essential guide serves as both a textbook and a reference “toolbox” on 
 
 
  [![Quick Start Guide to Verilog](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-10552-5.pdf)
-## Guide to Scientific Computing in C++#guide_to_scientific_computing_in_c
+## Guide to Scientific Computing in C++
 ### **Joe Pitt-Francis, Jonathan Whiteley** 
 
 
@@ -14843,7 +14843,7 @@ This accessible textbook is a “must-read” for programmers of all levels of e
 
 
  [![Guide to Scientific Computing in C++](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73132-2.pdf)
-## Econometrics#econometrics
+## Econometrics
 ### **Badi H. Baltagi** 
 
 
@@ -14863,7 +14863,7 @@ Prof. Walter Krämer, University of Dortmund
 
 
  [![Econometrics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-20059-5.pdf)
-## Data Analysis#data_analysis
+## Data Analysis
 ### **Siegmund Brandt** 
 
 
@@ -14896,7 +14896,7 @@ Siegmund Brandt is Emeritus Professor of Physics at the University of Siegen. Wi
 
 
  [![Data Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-03762-2.pdf)
-## Electrochemistry#electrochemistry
+## Electrochemistry
 ### **Christine Lefrou, Pierre Fabry, Jean-Claude Poignet** 
 
 
@@ -14924,7 +14924,7 @@ This book is accessible to both novice and experienced electrochemists and suppo
 
 
  [![Electrochemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-30250-3.pdf)
-## Strategic International Management#strategic_international_management
+## Strategic International Management
 ### **** 
 
 
@@ -14955,7 +14955,7 @@ Joachim Zentes is Professor of Management and Marketing at the Saarland Univ
 
 
  [![Strategic International Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-8349-6331-4.pdf)
-## Probability and Statistics for Computer Science#probability_and_statistics_for_computer_science
+## Probability and Statistics for Computer Science
 ### **David Forsyth** 
 
 
@@ -14983,7 +14983,7 @@ boxed Procedures, Definitions, Useful Facts, and Remember This (short tips). Pro
 
 
  [![Probability and Statistics for Computer Science](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-64410-3.pdf)
-## Travel Marketing, Tourism Economics and the Airline Product#travel_marketing_tourism_economics_and_the_airline_product
+## Travel Marketing, Tourism Economics and the Airline Product
 ### **Mark Anthony Camilleri** 
 
 
@@ -14996,7 +14996,7 @@ boxed Procedures, Definitions, Useful Facts, and Remember This (short tips). Pro
 
 
  [![Travel Marketing, Tourism Economics and the Airline Product](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-49849-2.pdf)
-## Handbook of Consumer Finance Research#handbook_of_consumer_finance_research
+## Handbook of Consumer Finance Research
 ### **Jing Jian Xiao** 
 
 
@@ -15026,7 +15026,7 @@ Accessibly written for researchers and practitioners, this Second Edition of the
 
 
  [![Handbook of Consumer Finance Research](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-28887-1.pdf)
-## Principles of Mobile Communication#principles_of_mobile_communication
+## Principles of Mobile Communication
 ### **Gordon L. Stüber** 
 
 
@@ -15047,7 +15047,7 @@ Includes new content on 4G cellular systems, 5G cellular outlook, bandpass signa
 
 
  [![Principles of Mobile Communication](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55615-4.pdf)
-## Database Marketing#database_marketing
+## Database Marketing
 ### **Robert C. Blattberg, Byung-Do Kim, Scott A. Neslin** 
 
 
@@ -15077,7 +15077,7 @@ Includes new content on 4G cellular systems, 5G cellular outlook, bandpass signa
 
 
  [![Database Marketing](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-72579-6.pdf)
-## Understanding Analysis#understanding_analysis
+## Understanding Analysis
 ### **Stephen Abbott** 
 
 
@@ -15097,7 +15097,7 @@ hat exposing students to it could well lead them to expect such excellence in al
 
 
  [![Understanding Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2712-8.pdf)
-## Algebra#algebra
+## Algebra
 ### **Serge Lang** 
 
 
@@ -15117,7 +15117,7 @@ The author has an impressive knack for presenting the important and interesting 
 
 
  [![Algebra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4613-0041-0.pdf)
-## Proofs from THE BOOK#proofs_from_the_book
+## Proofs from THE BOOK
 ### **Martin Aigner, Günter M. Ziegler** 
 
 
@@ -15150,7 +15150,7 @@ SIGACT News, December 2011
 
 
  [![Proofs from THE BOOK](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-57265-8.pdf)
-## Grammar for Teachers#grammar_for_teachers
+## Grammar for Teachers
 ### **Andrea DeCapua** 
 
 
@@ -15165,7 +15165,7 @@ SIGACT News, December 2011
 
 
  [![Grammar for Teachers](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-33916-0.pdf)
-## Physical Chemistry from a Different Angle#physical_chemistry_from_a_different_angle
+## Physical Chemistry from a Different Angle
 ### **Georg Job, Regina Rüffler** 
 
 
@@ -15180,7 +15180,7 @@ SIGACT News, December 2011
 
 
  [![Physical Chemistry from a Different Angle](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-15666-8.pdf)
-## Geomorphology of Desert Environments#geomorphology_of_desert_environments
+## Geomorphology of Desert Environments
 ### **Anthony J. Parsons, Athol D. Abrahams** 
 
 
@@ -15206,7 +15206,7 @@ From the reviews of the previous edition:
 
 
  [![Geomorphology of Desert Environments](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4020-5719-9.pdf)
-## Handbook of Quantitative Criminology#handbook_of_quantitative_criminology
+## Handbook of Quantitative Criminology
 ### **Alex R. Piquero, David Weisburd** 
 
 
@@ -15220,7 +15220,7 @@ From the reviews of the previous edition:
 
 
  [![Handbook of Quantitative Criminology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-77650-7.pdf)
-## The Physics of Semiconductors#the_physics_of_semiconductors
+## The Physics of Semiconductors
 ### **Marius Grundmann** 
 
 
@@ -15233,7 +15233,7 @@ in modern semiconductor research but typically omitted in textbooks. Coverage al
 
 
  [![The Physics of Semiconductors](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-23880-7.pdf)
-## Fraud and Corruption#fraud_and_corruption
+## Fraud and Corruption
 ### **Peter C. Kratcoski, Maximilian Edelbacher** 
 
 
@@ -15249,7 +15249,7 @@ This work will be of interest to graduate-level students (as well as upper-level
 
 
  [![Fraud and Corruption](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-92333-8.pdf)
-## The ASCRS Textbook of Colon and Rectal Surgery#the_ascrs_textbook_of_colon_and_rectal_surgery
+## The ASCRS Textbook of Colon and Rectal Surgery
 ### **Scott R. Steele, Tracy L. Hull, Thomas E. Read, Theodore J. Saclarides, Anthony J. Senagore, Charles B. Whitlow** 
 
 
@@ -15261,7 +15261,7 @@ This work will be of interest to graduate-level students (as well as upper-level
 
 
  [![The ASCRS Textbook of Colon and Rectal Surgery](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-25970-3.pdf)
-## Introduction to Partial Differential Equations#introduction_to_partial_differential_equations
+## Introduction to Partial Differential Equations
 ### **David Borthwick** 
 
 
@@ -15280,7 +15280,7 @@ The text stresses the interplay between modeling and mathematical analysis, prov
 
 
  [![Introduction to Partial Differential Equations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-48936-0.pdf)
-## An Introduction to Statistical Learning#an_introduction_to_statistical_learning
+## An Introduction to Statistical Learning
 ### **Gareth James, Daniela Witten, Trevor Hastie, Robert Tibshirani** 
 
 
@@ -15297,7 +15297,7 @@ Two of the authors co-wrote The Elements of Statistical Learning (Hastie, Tibshi
 
 
  [![An Introduction to Statistical Learning](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7138-7.pdf)
-## Introduction to Time Series and Forecasting#introduction_to_time_series_and_forecasting
+## Introduction to Time Series and Forecasting
 ### **Peter J. Brockwell, Richard A. Davis** 
 
 
@@ -15327,7 +15327,7 @@ From reviews of the first edition:
 
 
  [![Introduction to Time Series and Forecasting](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-29854-2.pdf)
-## System Dynamics#system_dynamics
+## System Dynamics
 ### **Bilash Kanti Bala, Fatimah Mohamed Arshad, Kusairi Mohd Noh** 
 
 
@@ -15340,7 +15340,7 @@ From reviews of the first edition:
 
 
  [![System Dynamics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-10-2045-2.pdf)
-## LaTeX in 24 Hours#latex_in_24_hours
+## LaTeX in 24 Hours
 ### **Dilip Datta** 
 
 
@@ -15353,7 +15353,7 @@ Unlike much of the literature currently available on LaTeX, which takes a more t
 
 
  [![LaTeX in 24 Hours](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-47831-9.pdf)
-## The Psychology of Social Status#the_psychology_of_social_status
+## The Psychology of Social Status
 ### **Joey T. Cheng, Jessica L. Tracy, Cameron Anderson** 
 
 
@@ -15382,7 +15382,7 @@ Unlike much of the literature currently available on LaTeX, which takes a more t
 
 
  [![The Psychology of Social Status](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-0867-7.pdf)
-## The Finite Element Method and Applications in Engineering Using ANSYS®#the_finite_element_method_and_applications_in_engineering_using_ansys®
+## The Finite Element Method and Applications in Engineering Using ANSYS®
 ### **Erdogan Madenci, Ibrahim Guven** 
 
 
@@ -15406,7 +15406,7 @@ Electronic supplementary material for using ANSYS® can be found at http://link.
 
 
  [![The Finite Element Method and Applications in Engineering Using ANSYS®](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4899-7550-8.pdf)
-## Regression Modeling Strategies#regression_modeling_strategies
+## Regression Modeling Strategies
 ### **Frank E. Harrell , Jr.** 
 
 
@@ -15424,7 +15424,7 @@ the first edition, this text is intended for Masters' or Ph.D. level graduate st
 
 
  [![Regression Modeling Strategies](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-19425-7.pdf)
-## Taxation in European Union#taxation_in_european_union
+## Taxation in European Union
 ### **Pietro Boria** 
 
 
@@ -15437,7 +15437,7 @@ the first edition, this text is intended for Masters' or Ph.D. level graduate st
 
 
  [![Taxation in European Union](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-53919-5.pdf)
-## Advanced Guide to Python 3 Programming#advanced_guide_to_python_3_programming
+## Advanced Guide to Python 3 Programming
 ### **John Hunt** 
 
 
@@ -15458,7 +15458,7 @@ to explore concurrency and parallelism, to create impressive looking graphical i
 
 
  [![Advanced Guide to Python 3 Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-25943-3.pdf)
-## Additive Manufacturing Technologies#additive_manufacturing_technologies
+## Additive Manufacturing Technologies
 ### **Ian Gibson, David Rosen, Brent Stucker** 
 
 
@@ -15482,7 +15482,7 @@ Provides a broad range of technical questions to ensure comprehensive understand
 
 
  [![Additive Manufacturing Technologies](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2113-3.pdf)
-## Introduction to Formal Philosophy#introduction_to_formal_philosophy
+## Introduction to Formal Philosophy
 ### **Sven Ove Hansson, Vincent F. Hendricks** 
 
 
@@ -15502,7 +15502,7 @@ Throughout, the contributors clarify the relationships and interdependencies bet
 
 
  [![Introduction to Formal Philosophy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-77434-3.pdf)
-## MATLAB for Psychologists#matlab_for_psychologists
+## MATLAB for Psychologists
 ### **Mauro Borgo, Alessandro Soranzo, Massimo Grassi** 
 
 
@@ -15528,7 +15528,7 @@ Key features of the coverage:
 
 
  [![MATLAB for Psychologists](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-2197-9.pdf)
-## Logical Foundations of Cyber-Physical Systems#logical_foundations_of_cyber_physical_systems
+## Logical Foundations of Cyber-Physical Systems
 ### **André Platzer** 
 
 
@@ -15546,7 +15546,7 @@ The book is supported with homework exercises, lecture videos, and slides.
 
 
  [![Logical Foundations of Cyber-Physical Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-63588-0.pdf)
-## Plant Physiology, Development and Metabolism#plant_physiology_development_and_metabolism
+## Plant Physiology, Development and Metabolism
 ### **Satish C Bhatla, Manju A. Lal** 
 
 
@@ -15560,7 +15560,7 @@ The book is supported with homework exercises, lecture videos, and slides.
 
 
  [![Plant Physiology, Development and Metabolism](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-2023-1.pdf)
-## Quantum Mechanics#quantum_mechanics
+## Quantum Mechanics
 ### **Daniel Bes** 
 
 
@@ -15574,7 +15574,7 @@ The book is supported with homework exercises, lecture videos, and slides.
 
 
  [![Quantum Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-20556-9.pdf)
-## Foundations of Analytical Chemistry#foundations_of_analytical_chemistry
+## Foundations of Analytical Chemistry
 ### **Miguel Valcárcel Cases, Ángela I. López-Lorente, Ma Ángeles López-Jiménez** 
 
 
@@ -15600,7 +15600,7 @@ A distinct feature of this novel book is its focus on the fundamental concepts a
 
 
  [![Foundations of Analytical Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-62872-1.pdf)
-## International Trade Theory and Policy#international_trade_theory_and_policy
+## International Trade Theory and Policy
 ### **Giancarlo Gandolfo** 
 
 
@@ -15625,7 +15625,7 @@ This new edition of **International Trade Theory and Policy** continues the fine
 
 
  [![International Trade Theory and Policy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-37314-5.pdf)
-## Fundamentals of Clinical Trials#fundamentals_of_clinical_trials
+## Fundamentals of Clinical Trials
 ### **Lawrence M. Friedman, Curt D. Furberg, David L. DeMets, David M. Reboussin, Christopher B. Granger** 
 
 
@@ -15645,7 +15645,7 @@ Although a basic introductory statistics course is helpful in maximizing the ben
 
 
  [![Fundamentals of Clinical Trials](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-18539-2.pdf)
-## A Beginner's Guide to Scala, Object Orientation and Functional Programming#a_beginner_s_guide_to_scala_object_orientation_and_functional_programming
+## A Beginner's Guide to Scala, Object Orientation and Functional Programming
 ### **John Hunt** 
 
 
@@ -15663,7 +15663,7 @@ Students and those actively involved in the software industry will find this com
 
 
  [![A Beginner's Guide to Scala, Object Orientation and Functional Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-75771-1.pdf)
-## Quantum Theory for Mathematicians#quantum_theory_for_mathematicians
+## Quantum Theory for Mathematicians
 ### **Brian C. Hall** 
 
 
@@ -15679,7 +15679,7 @@ The numerous exercises at the end of each chapter make the book suitable for bot
 
 
  [![Quantum Theory for Mathematicians](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7116-5.pdf)
-## International Business Management#international_business_management
+## International Business Management
 ### **Kamal Fatehi, Jeongho Choi** 
 
 
@@ -15693,7 +15693,7 @@ The contents of this textbook are separated into four parts. Part one offers int
 
 
  [![International Business Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-96622-9.pdf)
-## Essentials of Business Analytics#essentials_of_business_analytics
+## Essentials of Business Analytics
 ### **Bhimasankaram Pochiraju, Sridhar Seshadri** 
 
 
@@ -15713,7 +15713,7 @@ Every chapter has a business orientation. Typically, each chapter begins with th
 
 
  [![Essentials of Business Analytics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68837-4.pdf)
-## Handbook of LGBT Elders#handbook_of_lgbt_elders
+## Handbook of LGBT Elders
 ### **Debra A. Harley, Pamela B. Teaster** 
 
 
@@ -15747,7 +15747,7 @@ Among the topics in the *Handbook*:
 
 
  [![Handbook of LGBT Elders](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-03623-6.pdf)
-## Foundations of Quantum Mechanics#foundations_of_quantum_mechanics
+## Foundations of Quantum Mechanics
 ### **Travis Norsen** 
 
 
@@ -15765,7 +15765,7 @@ The text is accessible to students with at least one semester of prior exposure 
 
 
  [![Foundations of Quantum Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-65867-4.pdf)
-## Plant Physiological Ecology#plant_physiological_ecology
+## Plant Physiological Ecology
 ### **Hans Lambers, F. Stuart ChapinIII, Thijs L. Pons** 
 
 
@@ -15793,7 +15793,7 @@ The text is accessible to students with at least one semester of prior exposure 
 
 
  [![Plant Physiological Ecology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-78341-3.pdf)
-## Handbook of Sociological Theory#handbook_of_sociological_theory
+## Handbook of Sociological Theory
 ### **Jonathan H. Turner** 
 
 
@@ -15825,7 +15825,7 @@ This handbook will be of interest to those wanting a broad spectrum and overview
 
 
  [![Handbook of Sociological Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F0-387-36274-6.pdf)
-## Communication and Bioethics at the End of Life#communication_and_bioethics_at_the_end_of_life
+## Communication and Bioethics at the End of Life
 ### **Lori A.  Roscoe, David P. Schenck** 
 
 
@@ -15837,7 +15837,7 @@ This handbook will be of interest to those wanting a broad spectrum and overview
 
 
  [![Communication and Bioethics at the End of Life](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70920-8.pdf)
-## Developmental Neurobiology#developmental_neurobiology
+## Developmental Neurobiology
 ### **Mahendra S. Rao, Marcus Jacobson†** 
 
 
@@ -15861,7 +15861,7 @@ Ronald W. Oppenheim, Ph.D., Neuroscience Program, Wake Forest University School 
 
 
  [![Developmental Neurobiology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F0-387-28117-7.pdf)
-## Composite Materials#composite_materials
+## Composite Materials
 ### **Krishan K. Chawla** 
 
 
@@ -15885,7 +15885,7 @@ Examples of practical applications in various fields are given throughout the bo
 
 
  [![Composite Materials](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-74365-3.pdf)
-## Social Justice Theory and Practice for Social Work#social_justice_theory_and_practice_for_social_work
+## Social Justice Theory and Practice for Social Work
 ### **Lynelle Watts, David Hodgson** 
 
 
@@ -15897,7 +15897,7 @@ Examples of practical applications in various fields are given throughout the bo
 
 
  [![Social Justice Theory and Practice for Social Work](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-3621-8.pdf)
-## Handbook of Evolutionary Research in Archaeology#handbook_of_evolutionary_research_in_archaeology
+## Handbook of Evolutionary Research in Archaeology
 ### **Anna Marie Prentiss** 
 
 
@@ -15920,7 +15920,7 @@ Given a focus on theory and application the book does not seek comprehensive cov
 
 
  [![Handbook of Evolutionary Research in Archaeology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-11117-5.pdf)
-## Handbook of Disaster Research#handbook_of_disaster_research
+## Handbook of Disaster Research
 ### **Havidán Rodríguez, Enrico L. Quarantelli, Russell R. Dynes** 
 
 
@@ -15954,7 +15954,7 @@ The Hand
 
 
  [![Handbook of Disaster Research](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-32353-4.pdf)
-## Automata and Computability#automata_and_computability
+## Automata and Computability
 ### **Dexter C. Kozen** 
 
 
@@ -15966,7 +15966,7 @@ The Hand
 
 
  [![Automata and Computability](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4612-1844-9.pdf)
-## Intermediate Physics for Medicine and Biology#intermediate_physics_for_medicine_and_biology
+## Intermediate Physics for Medicine and Biology
 ### **Russell K. Hobbie, Bradley J. Roth** 
 
 
@@ -15982,7 +15982,7 @@ The Hand
 
 
  [![Intermediate Physics for Medicine and Biology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-12682-1.pdf)
-## Clinical Methods in Medical Family Therapy#clinical_methods_in_medical_family_therapy
+## Clinical Methods in Medical Family Therapy
 ### **Tai Mendenhall, Angela Lamson, Jennifer Hodgson, Macaran Baird** 
 
 
@@ -16006,7 +16006,7 @@ The Hand
 
 
  [![Clinical Methods in Medical Family Therapy](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68834-3.pdf)
-## Cryptography Made Simple#cryptography_made_simple
+## Cryptography Made Simple
 ### **Nigel P. Smart** 
 
 
@@ -16022,7 +16022,7 @@ The author balances a largely non-rigorous style — many proofs are sketched on
 
 
  [![Cryptography Made Simple](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-21936-3.pdf)
-## A Primer on Scientific Programming with Python#a_primer_on_scientific_programming_with_python
+## A Primer on Scientific Programming with Python
 ### **Hans Petter Langtangen** 
 
 
@@ -16051,7 +16051,7 @@ The author balances a largely non-rigorous style — many proofs are sketched on
 
 
  [![A Primer on Scientific Programming with Python](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-49887-3.pdf)
-## Advanced Organic Chemistry#advanced_organic_chemistry
+## Advanced Organic Chemistry
 ### **Francis A. Carey, Richard J. Sundberg** 
 
 
@@ -16069,7 +16069,7 @@ The control of reactivity to achieve specific syntheses is one of the overarchin
 
 
  [![Advanced Organic Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-71481-3.pdf)
-## The Nature of Scientific Knowledge#the_nature_of_scientific_knowledge
+## The Nature of Scientific Knowledge
 ### **Kevin McCain** 
 
 
@@ -16083,7 +16083,7 @@ The control of reactivity to achieve specific syntheses is one of the overarchin
 
 
  [![The Nature of Scientific Knowledge](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-33405-9.pdf)
-## Fundamentals of Power Electronics#fundamentals_of_power_electronics
+## Fundamentals of Power Electronics
 ### **Robert W. Erickson, Dragan Maksimović** 
 
 
@@ -16102,7 +16102,7 @@ This edition includes many new examples, illustrations, and exercises to guide s
 
 
  [![Fundamentals of Power Electronics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2Fb100747.pdf)
-## Philosophy of Science for Scientists#philosophy_of_science_for_scientists
+## Philosophy of Science for Scientists
 ### **Lars-Göran Johansson** 
 
 
@@ -16119,7 +16119,7 @@ Divided into three parts, the book first examines the question What is Science? 
 
 
  [![Philosophy of Science for Scientists](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-26551-3.pdf)
-## Sustainability Science#sustainability_science
+## Sustainability Science
 ### **Harald Heinrichs, Pim Martens, Gerd Michelsen, Arnim Wiek** 
 
 
@@ -16131,7 +16131,7 @@ Divided into three parts, the book first examines the question What is Science? 
 
 
  [![Sustainability Science](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-017-7242-6.pdf)
-## Stability and Control of Linear Systems#stability_and_control_of_linear_systems
+## Stability and Control of Linear Systems
 ### **Andrea Bacciotti** 
 
 
@@ -16147,7 +16147,7 @@ The book is an ideal learning resource for graduate students of control theory a
 
 
  [![Stability and Control of Linear Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-02405-5.pdf)
-## Introduction to Logic Circuits & Logic Design with Verilog#introduction_to_logic_circuits_logic_design_with_verilog
+## Introduction to Logic Circuits & Logic Design with Verilog
 ### **Brock J. LaMeres** 
 
 
@@ -16167,7 +16167,7 @@ The book is an ideal learning resource for graduate students of control theory a
 
 
  [![Introduction to Logic Circuits & Logic Design with Verilog](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-13605-5.pdf)
-## Mechanics and Thermodynamics#mechanics_and_thermodynamics
+## Mechanics and Thermodynamics
 ### **Wolfgang Demtröder** 
 
 
@@ -16179,7 +16179,7 @@ The book is an ideal learning resource for graduate students of control theory a
 
 
  [![Mechanics and Thermodynamics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-27877-3.pdf)
-## Chemical Thermodynamics#chemical_thermodynamics
+## Chemical Thermodynamics
 ### **Ernö Keszei** 
 
 
@@ -16203,7 +16203,7 @@ This book is suitable as essential reading for courses in a bachelor and master 
 
 
  [![Chemical Thermodynamics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-19864-9.pdf)
-## Acid-Base Diagrams#acid_base_diagrams
+## Acid-Base Diagrams
 ### **Heike Kahlert, Fritz Scholz** 
 
 
@@ -16215,7 +16215,7 @@ This book is suitable as essential reading for courses in a bachelor and master 
 
 
  [![Acid-Base Diagrams](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-37902-4.pdf)
-## Off-Grid Electrical Systems in Developing Countries#off_grid_electrical_systems_in_developing_countries
+## Off-Grid Electrical Systems in Developing Countries
 ### **Henry Louie** 
 
 
@@ -16238,7 +16238,7 @@ Each chapter is instructor friendly and contains illustrative examples and probl
 
 
  [![Off-Grid Electrical Systems in Developing Countries](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91890-7.pdf)
-## Concise Guide to Software Engineering#concise_guide_to_software_engineering
+## Concise Guide to Software Engineering
 ### **Gerard O'Regan** 
 
 
@@ -16270,7 +16270,7 @@ This practical and easy-to-follow textbook/reference is ideal for computer scien
 
 
  [![Concise Guide to Software Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57750-0.pdf)
-## Perspectives on Elderly Crime and Victimization#perspectives_on_elderly_crime_and_victimization
+## Perspectives on Elderly Crime and Victimization
 ### **Peter C. Kratcoski, Maximilian Edelbacher** 
 
 
@@ -16288,7 +16288,7 @@ Finally, the book presents comparative international research on approaches to c
 
 
  [![Perspectives on Elderly Crime and Victimization](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72682-3.pdf)
-## Quick Start Guide to VHDL#quick_start_guide_to_vhdl
+## Quick Start Guide to VHDL
 ### **Brock J. LaMeres** 
 
 
@@ -16308,7 +16308,7 @@ Finally, the book presents comparative international research on approaches to c
 
 
  [![Quick Start Guide to VHDL](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-04516-6.pdf)
-## Writing for Publication#writing_for_publication
+## Writing for Publication
 ### **Mary Renck Jalongo, Olivia N. Saracho** 
 
 
@@ -16320,7 +16320,7 @@ Finally, the book presents comparative international research on approaches to c
 
 
  [![Writing for Publication](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-31650-5.pdf)
-## Python For ArcGIS#python_for_arcgis
+## Python For ArcGIS
 ### **Laura Tateosian** 
 
 
@@ -16332,7 +16332,7 @@ Finally, the book presents comparative international research on approaches to c
 
 
  [![Python For ArcGIS](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-18398-5.pdf)
-## Discrete Mathematics#discrete_mathematics
+## Discrete Mathematics
 ### **L. Lovász, J. Pelikán, K. Vesztergombi** 
 
 
@@ -16348,7 +16348,7 @@ László Lovász is a Senior Researcher in the Theory Group at Microsoft Corpora
 
 
  [![Discrete Mathematics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2Fb97469.pdf)
-## Abstract Algebra#abstract_algebra
+## Abstract Algebra
 ### **Gregory T. Lee** 
 
 
@@ -16364,7 +16364,7 @@ Explaining key topics at a gentle pace, this book is aimed at undergraduate stud
 
 
  [![Abstract Algebra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-77649-1.pdf)
-## Introduction to Law#introduction_to_law
+## Introduction to Law
 ### **Jaap Hage, Antonia Waltermann, Bram Akkermans** 
 
 
@@ -16378,7 +16378,7 @@ Explaining key topics at a gentle pace, this book is aimed at undergraduate stud
 
 
  [![Introduction to Law](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-57252-9.pdf)
-## The Python Workbook#the_python_workbook
+## The Python Workbook
 ### **Ben Stephenson** 
 
 
@@ -16405,7 +16405,7 @@ Undergraduate students undergoing their first programming course and wishing to 
 
 
  [![The Python Workbook](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-14240-1.pdf)
-## Complex Analysis#complex_analysis
+## Complex Analysis
 ### **Joseph Bak, Donald J. Newman** 
 
 
@@ -16417,7 +16417,7 @@ Undergraduate students undergoing their first programming course and wishing to 
 
 
  [![Complex Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-7288-0.pdf)
-## Digital Image Processing#digital_image_processing
+## Digital Image Processing
 ### **Wilhelm Burger, Mark J. Burge** 
 
 
@@ -16443,7 +16443,7 @@ Advanced undergraduate and graduate students will find this comprehensive and ex
 
 
  [![Digital Image Processing](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-6684-9.pdf)
-## Pharmaceutical Biotechnology#pharmaceutical_biotechnology
+## Pharmaceutical Biotechnology
 ### **Daan J. A. Crommelin, Robert D. Sindelar, Bernd Meibohm** 
 
 
@@ -16465,7 +16465,7 @@ The **Fourth Edition **continues the popular self-assessment questions after eac
 
 
  [![Pharmaceutical Biotechnology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6486-0.pdf)
-## Human Chromosomes#human_chromosomes
+## Human Chromosomes
 ### **Orlando J. Miller, Eeva Therman** 
 
 
@@ -16477,7 +16477,7 @@ The **Fourth Edition **continues the popular self-assessment questions after eac
 
 
  [![Human Chromosomes](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4613-0139-4.pdf)
-## An Introduction to Machine Learning#an_introduction_to_machine_learning
+## An Introduction to Machine Learning
 ### **Miroslav Kubat** 
 
 
@@ -16493,7 +16493,7 @@ This revised edition contains three entirely new chapters on critical topics reg
 
 
  [![An Introduction to Machine Learning](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-63913-0.pdf)
-## Linear Algebra#linear_algebra
+## Linear Algebra
 ### **Jörg Liesen, Volker Mehrmann** 
 
 
@@ -16506,7 +16506,7 @@ The matrix-oriented approach to linear algebra leads to a better intuition and a
 
 
  [![Linear Algebra](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-24346-7.pdf)
-## Bayesian Essentials with R#bayesian_essentials_with_r
+## Bayesian Essentials with R
 ### **Jean-Michel Marin, Christian P. Robert** 
 
 
@@ -16524,7 +16524,7 @@ This is the new, fully-revised edition to the book *Bayesian Core: A Practical A
 
 
  [![Bayesian Essentials with R](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-8687-9.pdf)
-## Advanced Organic Chemistry#advanced_organic_chemistry
+## Advanced Organic Chemistry
 ### **Francis A. Carey, Richard J. Sundberg** 
 
 
@@ -16567,7 +16567,7 @@ Advanced Organic Chemistry Part A provides a close look at the structural concep
 
 
  [![Advanced Organic Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-44899-2.pdf)
-## Linear Programming#linear_programming
+## Linear Programming
 ### **Robert J. Vanderbei** 
 
 
@@ -16583,7 +16583,7 @@ Topics are clearly developed with many numerical examples worked out in detail. 
 
 
  [![Linear Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-7630-6.pdf)
-## Time Series Analysis#time_series_analysis
+## Time Series Analysis
 ### **Jonathan D. Cryer, Kung-Sik Chan** 
 
 
@@ -16603,7 +16603,7 @@ Kung-Sik Chan is Professor, University of Iowa, in the Department of Statistics 
 
 
  [![Time Series Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-75959-3.pdf)
-## Engineering Flow and Heat Exchange#engineering_flow_and_heat_exchange
+## Engineering Flow and Heat Exchange
 ### **Octave Levenspiel** 
 
 
@@ -16623,7 +16623,7 @@ Kung-Sik Chan is Professor, University of Iowa, in the Department of Statistics 
 
 
  [![Engineering Flow and Heat Exchange](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4899-7454-9.pdf)
-## Applied Multivariate Statistical Analysis#applied_multivariate_statistical_analysis
+## Applied Multivariate Statistical Analysis
 ### **Wolfgang Karl Härdle, Léopold Simar** 
 
 
@@ -16643,7 +16643,7 @@ The practical exercises include solutions that can be found in Härdle, W. and H
 
 
  [![Applied Multivariate Statistical Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-45171-7.pdf)
-## Stochastic Processes and Calculus#stochastic_processes_and_calculus
+## Stochastic Processes and Calculus
 ### **Uwe Hassler** 
 
 
@@ -16659,7 +16659,7 @@ This introduction is elementary and rigorous at the same time. On the one hand i
 
 
  [![Stochastic Processes and Calculus](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-23428-1.pdf)
-## Electronic Commerce#electronic_commerce
+## Electronic Commerce
 ### **Efraim Turban, David King, Jae Kyu Lee, Ting-Peng Liang, Deborrah C. Turban** 
 
 
@@ -16677,7 +16677,7 @@ In this edition (previous editions published by Pearson/Prentice Hall), the auth
 
 
  [![Electronic Commerce](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-10091-3.pdf)
-## Solid-State Physics#solid_state_physics
+## Solid-State Physics
 ### **Harald Ibach, Hans Lüth** 
 
 
@@ -16695,7 +16695,7 @@ From a review of the original edition – "... An excellent mix of concepts, the
 
 
  [![Solid-State Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-540-93804-0.pdf)
-## Air Pollution and Greenhouse Gases#air_pollution_and_greenhouse_gases
+## Air Pollution and Greenhouse Gases
 ### **Zhongchao Tan** 
 
 
@@ -16709,7 +16709,7 @@ From a review of the original edition – "... An excellent mix of concepts, the
 
 
  [![Air Pollution and Greenhouse Gases](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-287-212-8.pdf)
-## Java in Two Semesters#java_in_two_semesters
+## Java in Two Semesters
 ### **Quentin Charatan, Aaron Kans** 
 
 
@@ -16739,7 +16739,7 @@ Offering a gentle introduction to the field, assuming no prior knowledge of the 
 
 
  [![Java in Two Semesters](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99420-8.pdf)
-## Energy Storage#energy_storage
+## Energy Storage
 ### **Robert Huggins** 
 
 
@@ -16758,7 +16758,7 @@ This book explains the underlying scientific and engineering fundamentals of all
 
 
  [![Energy Storage](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-21239-5.pdf)
-## Statistical Learning from a Regression Perspective#statistical_learning_from_a_regression_perspective
+## Statistical Learning from a Regression Perspective
 ### **Richard A. Berk** 
 
 
@@ -16773,7 +16773,7 @@ The material is written for upper undergraduate level and graduate students in t
 
 
  [![Statistical Learning from a Regression Perspective](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-44048-4.pdf)
-## Statistics in Criminal Justice#statistics_in_criminal_justice
+## Statistics in Criminal Justice
 ### **David Weisburd, Chester Britt** 
 
 
@@ -16803,7 +16803,7 @@ New to the 4th Edition:
 
 
  [![Statistics in Criminal Justice](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-9170-5.pdf)
-## Quantitative Methods for the Social Sciences#quantitative_methods_for_the_social_sciences
+## Quantitative Methods for the Social Sciences
 ### **Daniel Stockemer** 
 
 
@@ -16817,7 +16817,7 @@ The book explains the theory, rationale and mathematical foundations of these te
 
 
  [![Quantitative Methods for the Social Sciences](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-99118-4.pdf)
-## Problems in Classical Electromagnetism#problems_in_classical_electromagnetism
+## Problems in Classical Electromagnetism
 ### **Andrea Macchi, Giovanni Moruzzi, Francesco Pegoraro** 
 
 
@@ -16829,7 +16829,7 @@ The book explains the theory, rationale and mathematical foundations of these te
 
 
  [![Problems in Classical Electromagnetism](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-63133-2.pdf)
-## Introduction to Evolutionary Computing#introduction_to_evolutionary_computing
+## Introduction to Evolutionary Computing
 ### **A.E. Eiben, J.E. Smith** 
 
 
@@ -16845,7 +16845,7 @@ The book is suitable for undergraduate and graduate courses in artificial intell
 
 
  [![Introduction to Evolutionary Computing](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-44874-8.pdf)
-## Data Science and Predictive Analytics#data_science_and_predictive_analytics
+## Data Science and Predictive Analytics
 ### **Ivo D. Dinov** 
 
 
@@ -16867,7 +16867,7 @@ The content of this graduate-level textbook fills a substantial gap in integrati
 
 
  [![Data Science and Predictive Analytics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-72347-1.pdf)
-## Computer Vision#computer_vision
+## Computer Vision
 ### **Richard Szeliski** 
 
 
@@ -16897,7 +16897,7 @@ Suitable for an upper-level undergraduate or graduate-level course in computer s
 
 
  [![Computer Vision](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-84882-935-0.pdf)
-## Introduction to Logic Circuits & Logic Design with Verilog#introduction_to_logic_circuits_logic_design_with_verilog
+## Introduction to Logic Circuits & Logic Design with Verilog
 ### **Brock J. LaMeres** 
 
 
@@ -16917,7 +16917,7 @@ Suitable for an upper-level undergraduate or graduate-level course in computer s
 
 
  [![Introduction to Logic Circuits & Logic Design with Verilog](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-53883-9.pdf)
-## Educational Technology#educational_technology
+## Educational Technology
 ### **Ronghuai Huang, J. Michael Spector, Junfeng Yang** 
 
 
@@ -16931,7 +16931,7 @@ This book is targeted towards those who are looking for career in educational te
 
 
  [![Educational Technology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-6643-7.pdf)
-## Social Anxiety and Social Phobia in Youth#social_anxiety_and_social_phobia_in_youth
+## Social Anxiety and Social Phobia in Youth
 ### **Christopher A. Kearney** 
 
 
@@ -16943,7 +16943,7 @@ This book is targeted towards those who are looking for career in educational te
 
 
  [![Social Anxiety and Social Phobia in Youth](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2Fb99417.pdf)
-## Philosophy of Race#philosophy_of_race
+## Philosophy of Race
 ### **Naomi Zack** 
 
 
@@ -16958,7 +16958,7 @@ This book is targeted towards those who are looking for career in educational te
 
 
  [![Philosophy of Race](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-78729-9.pdf)
-## Fundamentals of Business Process Management#fundamentals_of_business_process_management
+## Fundamentals of Business Process Management
 ### **Marlon Dumas, Marcello La Rosa, Jan Mendling, Hajo A. Reijers** 
 
 
@@ -16976,7 +16976,7 @@ In addition to explaining the relevant conceptual background, the book provides 
 
 
  [![Fundamentals of Business Process Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-33143-5.pdf)
-## Biomedical Informatics#biomedical_informatics
+## Biomedical Informatics
 ### **Edward H. Shortliffe, James J. Cimino** 
 
 
@@ -16990,7 +16990,7 @@ In addition to explaining the relevant conceptual background, the book provides 
 
 
  [![Biomedical Informatics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-4474-8.pdf)
-## Statistical Mechanics for Engineers#statistical_mechanics_for_engineers
+## Statistical Mechanics for Engineers
 ### **Isamu Kusaka** 
 
 
@@ -17004,7 +17004,7 @@ In addition to explaining the relevant conceptual background, the book provides 
 
 
  [![Statistical Mechanics for Engineers](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-13809-1.pdf)
-## Essentials of Cerebellum and Cerebellar Disorders#essentials_of_cerebellum_and_cerebellar_disorders
+## Essentials of Cerebellum and Cerebellar Disorders
 ### **Donna L. Gruol, Noriyuki Koibuchi, Mario Manto, Marco Molinari, Jeremy D. Schmahmann, Ying Shen** 
 
 
@@ -17017,7 +17017,7 @@ In addition to explaining the relevant conceptual background, the book provides 
 
 
  [![Essentials of Cerebellum and Cerebellar Disorders](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-24551-5.pdf)
-## Linear Algebra Done Right#linear_algebra_done_right
+## Linear Algebra Done Right
 ### **Sheldon Axler** 
 
 
@@ -17035,7 +17035,7 @@ No prerequisites are assumed other than the usual demand for suitable mathematic
 
 
  [![Linear Algebra Done Right](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-11080-6.pdf)
-## Climate Change Science: A Modern Synthesis#climate_change_science_a_modern_synthesis
+## Climate Change Science: A Modern Synthesis
 ### **G. Thomas Farmer, John Cook** 
 
 
@@ -17053,7 +17053,7 @@ Each chapter opens with a list of “Things to Know.” The book goes on to offe
 
 
  [![Climate Change Science: A Modern Synthesis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-007-5757-8.pdf)
-## Conferencing and Presentation English for Young Academics#conferencing_and_presentation_english_for_young_academics
+## Conferencing and Presentation English for Young Academics
 ### **Michael Guest** 
 
 
@@ -17065,7 +17065,7 @@ Each chapter opens with a list of “Things to Know.” The book goes on to offe
 
 
  [![Conferencing and Presentation English for Young Academics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-2475-8.pdf)
-## Excel Data Analysis#excel_data_analysis
+## Excel Data Analysis
 ### **Hector Guerrero** 
 
 
@@ -17078,7 +17078,7 @@ The book is primarily intended for students in business, economics and governmen
 
 
  [![Excel Data Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-01279-3.pdf)
-## International Humanitarian Action#international_humanitarian_action
+## International Humanitarian Action
 ### **Hans-Joachim Heintze, Pierre Thielbörger** 
 
 
@@ -17091,7 +17091,7 @@ The book is primarily intended for students in business, economics and governmen
 
 
  [![International Humanitarian Action](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-14454-2.pdf)
-## Handbook of the Life Course#handbook_of_the_life_course
+## Handbook of the Life Course
 ### **Jeylan T. Mortimer, Michael J. Shanahan** 
 
 
@@ -17107,7 +17107,7 @@ Included are sections on history and cross-national variability, normative struc
 
 
  [![Handbook of the Life Course](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2Fb100507.pdf)
-## Principles of Terrestrial Ecosystem Ecology#principles_of_terrestrial_ecosystem_ecology
+## Principles of Terrestrial Ecosystem Ecology
 ### **F. Stuart ChapinIII, Pamela A. Matson, Peter M. Vitousek** 
 
 
@@ -17130,7 +17130,7 @@ Featuring review questions at the end of each chapter, suggestions for further r
 
 
  [![Principles of Terrestrial Ecosystem Ecology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9504-9.pdf)
-## Reactive Power Control in AC Power Systems#reactive_power_control_in_ac_power_systems
+## Reactive Power Control in AC Power Systems
 ### **Naser Mahdavi Tabatabaei, Ali Jafari Aghbolaghi, Nicu Bizon, Frede Blaabjerg** 
 
 
@@ -17148,7 +17148,7 @@ Featuring numerous worked-out examples, problems and solutions, as well as over 
 
 
  [![Reactive Power Control in AC Power Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-51118-4.pdf)
-## The Data Science Design Manual#the_data_science_design_manual
+## The Data Science Design Manual
 ### **Steven S. Skiena** 
 
 
@@ -17181,7 +17181,7 @@ This easy-to-read text ideally serves the needs of undergraduate and early gradu
 
 
  [![The Data Science Design Manual](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-55444-0.pdf)
-## Corporate Social Responsibility#corporate_social_responsibility
+## Corporate Social Responsibility
 ### **John O. Okpara, Samuel O. Idowu** 
 
 
@@ -17195,7 +17195,7 @@ This book provides thoughtful answers to these important questions, and to many 
 
 
  [![Corporate Social Responsibility](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-40975-2.pdf)
-## Child Neuropsychology#child_neuropsychology
+## Child Neuropsychology
 ### **Margaret Semrud-Clikeman, Phyllis Anne Teeter Ellison** 
 
 
@@ -17236,7 +17236,7 @@ This volume features a range of salient features valuable to students as well as
 
 
  [![Child Neuropsychology](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-88963-4.pdf)
-## A Beginners Guide to Python 3 Programming#a_beginners_guide_to_python_3_programming
+## A Beginners Guide to Python 3 Programming
 ### **John Hunt** 
 
 
@@ -17254,7 +17254,7 @@ Topics such as generators and coroutines are often misunderstood and these are e
 
 
  [![A Beginners Guide to Python 3 Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-20290-3.pdf)
-## Introductory Quantum Mechanics#introductory_quantum_mechanics
+## Introductory Quantum Mechanics
 ### **Paul R. Berman** 
 
 
@@ -17267,7 +17267,7 @@ Topics such as generators and coroutines are often misunderstood and these are e
 
 
  [![Introductory Quantum Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-68598-4.pdf)
-## Stellar Structure and Evolution#stellar_structure_and_evolution
+## Stellar Structure and Evolution
 ### **Rudolf Kippenhahn, Alfred Weigert, Achim Weiss** 
 
 
@@ -17286,7 +17286,7 @@ The book provides a comprehensive treatment of the physics of the stellar interi
 
 
  [![Stellar Structure and Evolution](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-30304-3.pdf)
-## Recommender Systems#recommender_systems
+## Recommender Systems
 ### **Charu C. Aggarwal** 
 
 
@@ -17306,7 +17306,7 @@ Although this book primarily serves as a textbook, it will also appeal to indust
 
 
  [![Recommender Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-29659-3.pdf)
-## Elementary Mechanics Using Matlab#elementary_mechanics_using_matlab
+## Elementary Mechanics Using Matlab
 ### **Anders Malthe-Sørenssen** 
 
 
@@ -17326,7 +17326,7 @@ Last but not least, each chapter is accompanied by an extensive set of course-te
 
 
  [![Elementary Mechanics Using Matlab](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-19587-2.pdf)
-## The Sea Floor#the_sea_floor
+## The Sea Floor
 ### **Eugen Seibold, Wolfgang Berger** 
 
 
@@ -17344,7 +17344,7 @@ The text tries to transmit to the reader excitement of marine geological researc
 
 
  [![The Sea Floor](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-51412-3.pdf)
-## Control Engineering#control_engineering
+## Control Engineering
 ### **László Keviczky, Ruth Bars, Jenő Hetthéssy, Csilla Bányász** 
 
 
@@ -17358,7 +17358,7 @@ The text tries to transmit to the reader excitement of marine geological researc
 
 
  [![Control Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-10-8297-9.pdf)
-## Plate Tectonics#plate_tectonics
+## Plate Tectonics
 ### **Wolfgang Frisch, Martin Meschede, Ronald C. Blakey** 
 
 
@@ -17374,7 +17374,7 @@ Frisch and Meschede and Blakey answer all these questions and more through the p
 
 
  [![Plate Tectonics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-540-76504-2.pdf)
-## Object-Oriented Analysis, Design and Implementation#object_oriented_analysis_design_and_implementation
+## Object-Oriented Analysis, Design and Implementation
 ### **Brahma Dathan, Sarnath Ramnath** 
 
 
@@ -17402,7 +17402,7 @@ All the main case studies used in this book have been implemented by the authors
 
 
  [![Object-Oriented Analysis, Design and Implementation](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-24280-4.pdf)
-## SPSS for Starters and 2nd Levelers#spss_for_starters_and_2nd_levelers
+## SPSS for Starters and 2nd Levelers
 ### **Ton J. Cleophas, Aeilko H. Zwinderman** 
 
 
@@ -17432,7 +17432,7 @@ Special care was, nonetheless, taken to keep things as simple as possible. Medic
 
 
  [![SPSS for Starters and 2nd Levelers](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-20600-4.pdf)
-## A Course in Rasch Measurement Theory#a_course_in_rasch_measurement_theory
+## A Course in Rasch Measurement Theory
 ### **David Andrich, Ida Marais** 
 
 
@@ -17447,7 +17447,7 @@ The content is based on courses that have been taught both online and in intensi
 
 
  [![A Course in Rasch Measurement Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-7496-8.pdf)
-## Customer Relationship Management#customer_relationship_management
+## Customer Relationship Management
 ### **V. Kumar, Werner Reinartz** 
 
 
@@ -17462,7 +17462,7 @@ The content is based on courses that have been taught both online and in intensi
 
 
  [![Customer Relationship Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-55381-7.pdf)
-## Introduction to General Relativity#introduction_to_general_relativity
+## Introduction to General Relativity
 ### **Cosimo Bambi** 
 
 
@@ -17477,7 +17477,7 @@ The content is based on courses that have been taught both online and in intensi
 
 
  [![Introduction to General Relativity](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-1090-4.pdf)
-## Bioinformatics for Evolutionary Biologists#bioinformatics_for_evolutionary_biologists
+## Bioinformatics for Evolutionary Biologists
 ### **Bernhard Haubold, Angelika Börsch-Haubold** 
 
 
@@ -17491,7 +17491,7 @@ The content is based on courses that have been taught both online and in intensi
 
 
  [![Bioinformatics for Evolutionary Biologists](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-67395-0.pdf)
-## Particles and Nuclei#particles_and_nuclei
+## Particles and Nuclei
 ### **Bogdan Povh, Klaus Rith, Christoph Scholz, Frank Zetsche, Werner Rodejohann** 
 
 
@@ -17517,7 +17517,7 @@ The seventh revised and extended edition includes new material, in particular th
 
 
  [![Particles and Nuclei](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-46321-5.pdf)
-## Additive Manufacturing Technologies#additive_manufacturing_technologies
+## Additive Manufacturing Technologies
 ### **Ian Gibson, David W. Rosen, Brent Stucker** 
 
 
@@ -17538,7 +17538,7 @@ The seventh revised and extended edition includes new material, in particular th
 
 
  [![Additive Manufacturing Technologies](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-1120-9.pdf)
-## Analysis for Computer Scientists#analysis_for_computer_scientists
+## Analysis for Computer Scientists
 ### **Michael Oberguggenberger, Alexander Ostermann** 
 
 
@@ -17566,7 +17566,7 @@ Addressing the core needs of computer science students and researchers, this cle
 
 
  [![Analysis for Computer Scientists](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91155-7.pdf)
-## Epidemiological Research: Terms and Concepts#epidemiological_research_terms_and_concepts
+## Epidemiological Research: Terms and Concepts
 ### **O. S. Miettinen** 
 
 
@@ -17584,7 +17584,7 @@ This book is intended to serve and a *handbook* for whomever is, in whatever way
 
 
  [![Epidemiological Research: Terms and Concepts](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-007-1171-6.pdf)
-## Energy Harvesting and Energy Efficiency#energy_harvesting_and_energy_efficiency
+## Energy Harvesting and Energy Efficiency
 ### **Nicu Bizon, Naser Mahdavi Tabatabaei, Frede Blaabjerg, Erol Kurt** 
 
 
@@ -17606,7 +17606,7 @@ The book tackles problems commonly encountered using basic methods of energy har
 
 
  [![Energy Harvesting and Energy Efficiency](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-49875-1.pdf)
-## The Elements of Statistical Learning#the_elements_of_statistical_learning
+## The Elements of Statistical Learning
 ### **Trevor Hastie, Robert Tibshirani, Jerome Friedman** 
 
 
@@ -17624,7 +17624,7 @@ Trevor Hastie, Robert Tibshirani, and Jerome Friedman are professors of statisti
 
 
  [![The Elements of Statistical Learning](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-84858-7.pdf)
-## Statistics and Data Analysis for Financial Engineering#statistics_and_data_analysis_for_financial_engineering
+## Statistics and Data Analysis for Financial Engineering
 ### **David Ruppert, David S. Matteson** 
 
 
@@ -17644,7 +17644,7 @@ Trevor Hastie, Robert Tibshirani, and Jerome Friedman are professors of statisti
 
 
  [![Statistics and Data Analysis for Financial Engineering](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-2614-5.pdf)
-## Motivation and Action #motivation_and_action
+## Motivation and Action 
 ### **Jutta Heckhausen, Heinz Heckhausen** 
 
 
@@ -17669,7 +17669,7 @@ About the Editor: Jutta Heckhausen is the daughter of Heinz Heckhausen, who publ
 
 
  [![Motivation and Action ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-65094-4.pdf)
-## Applied Behavior Analysis#applied_behavior_analysis
+## Applied Behavior Analysis
 ### **Kimberly Maich, Darren Levine, Carmen Hall** 
 
 
@@ -17687,7 +17687,7 @@ These fifty case studies:* Are suited to individual or team training.
 
 
  [![Applied Behavior Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-44794-0.pdf)
-## Magnetic Interactions in Molecules and Solids#magnetic_interactions_in_molecules_and_solids
+## Magnetic Interactions in Molecules and Solids
 ### **Coen de Graaf, Ria Broer** 
 
 
@@ -17704,7 +17704,7 @@ The book starts with introducing a selection of basic concepts and tools. Throug
 
 
  [![Magnetic Interactions in Molecules and Solids](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-22951-5.pdf)
-## Ordinary Differential Equations#ordinary_differential_equations
+## Ordinary Differential Equations
 ### **William A. Adkins, Mark G. Davidson** 
 
 
@@ -17720,7 +17720,7 @@ Along with its unique traits, this text contains all the topics needed for a sta
 
 
  [![Ordinary Differential Equations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-3618-8.pdf)
-## Argumentation Theory: A Pragma-Dialectical Perspective#argumentation_theory_a_pragma_dialectical_perspective
+## Argumentation Theory: A Pragma-Dialectical Perspective
 ### **Frans H. van Eemeren** 
 
 
@@ -17738,7 +17738,7 @@ The following crucial topics are discussed: (1) argumentation theory as a discip
 
 
  [![Argumentation Theory: A Pragma-Dialectical Perspective](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-95381-6.pdf)
-## Managing Media and Digital Organizations#managing_media_and_digital_organizations
+## Managing Media and Digital Organizations
 ### **Eli M. Noam** 
 
 
@@ -17752,7 +17752,7 @@ In the process, this book becomes an indispensable resource for those aiming for
 
 
  [![Managing Media and Digital Organizations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-71288-8.pdf)
-## Ceramic Materials#ceramic_materials
+## Ceramic Materials
 ### **C. Barry Carter, M. Grant Norton** 
 
 
@@ -17801,7 +17801,7 @@ Written by established and successful teachers and authors with experience in ed
 
 
  [![Ceramic Materials](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-3523-5.pdf)
-## Principles of Physics#principles_of_physics
+## Principles of Physics
 ### **Hafez  A . Radi, John O Rasmussen** 
 
 
@@ -17817,7 +17817,7 @@ Instructors teaching form this textbook will be able to gain online access to th
 
 
  [![Principles of Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-23026-4.pdf)
-## Optimization of Process Flowsheets through Metaheuristic Techniques #optimization_of_process_flowsheets_through_metaheuristic_techniques
+## Optimization of Process Flowsheets through Metaheuristic Techniques 
 ### **José María Ponce-Ortega, Luis Germán Hernández-Pérez** 
 
 
@@ -17833,7 +17833,7 @@ Aimed at graduate and undergraduate students, it presents introductory chapters 
 
 
  [![Optimization of Process Flowsheets through Metaheuristic Techniques ](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-91722-1.pdf)
-## Evolutionary Thinking in Medicine#evolutionary_thinking_in_medicine
+## Evolutionary Thinking in Medicine
 ### **Alexandra Alvergne, Crispin Jenkinson, Charlotte Faurie** 
 
 
@@ -17848,7 +17848,7 @@ Aimed at graduate and undergraduate students, it presents introductory chapters 
 
 
  [![Evolutionary Thinking in Medicine](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-29716-3.pdf)
-## Applied Predictive Modeling#applied_predictive_modeling
+## Applied Predictive Modeling
 ### **Max Kuhn, Kjell Johnson** 
 
 
@@ -17879,7 +17879,7 @@ Readers and students interested in implementing the methods should have some bas
 
 
  [![Applied Predictive Modeling](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6849-3.pdf)
-## ENZYMES: Catalysis, Kinetics and Mechanisms#enzymes_catalysis_kinetics_and_mechanisms
+## ENZYMES: Catalysis, Kinetics and Mechanisms
 ### **N.S.  Punekar** 
 
 
@@ -17893,7 +17893,7 @@ Readers and students interested in implementing the methods should have some bas
 
 
  [![ENZYMES: Catalysis, Kinetics and Mechanisms](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-13-0785-0.pdf)
-## Statistical Analysis of Clinical Data on a Pocket Calculator#statistical_analysis_of_clinical_data_on_a_pocket_calculator
+## Statistical Analysis of Clinical Data on a Pocket Calculator
 ### **Ton J. Cleophas, Aeilko H. Zwinderman** 
 
 
@@ -17909,7 +17909,7 @@ The principles of statistical analysis are easily forgotten in today’s world o
 
 
  [![Statistical Analysis of Clinical Data on a Pocket Calculator](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-007-1211-9.pdf)
-## Psychoeducational Assessment and Report Writing#psychoeducational_assessment_and_report_writing
+## Psychoeducational Assessment and Report Writing
 ### **Stefan C. Dombrowski** 
 
 
@@ -17929,7 +17929,7 @@ Key areas of coverage include:
 
 
  [![Psychoeducational Assessment and Report Writing](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1911-6.pdf)
-## Python Programming Fundamentals#python_programming_fundamentals
+## Python Programming Fundamentals
 ### **Kent D. Lee** 
 
 
@@ -17955,7 +17955,7 @@ Ideal for introductory programming courses for undergraduates in computer scienc
 
 
  [![Python Programming Fundamentals](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-6642-9.pdf)
-## Statics and Mechanics of Structures#statics_and_mechanics_of_structures
+## Statics and Mechanics of Structures
 ### **Steen Krenk, Jan Høgsberg** 
 
 
@@ -17973,7 +17973,7 @@ The book is well-suited as a textbook for a two-semester introductory course on 
 
 
  [![Statics and Mechanics of Structures](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-94-007-6113-1.pdf)
-## Computational Physics#computational_physics
+## Computational Physics
 ### **Philipp O.J. Scherer** 
 
 
@@ -17988,7 +17988,7 @@ The book gives simple but non trivial examples from a broad range of physical to
 
 
  [![Computational Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-00401-3.pdf)
-## Numerical Optimization#numerical_optimization
+## Numerical Optimization
 ### **Jorge Nocedal, Stephen J. Wright** 
 
 
@@ -18004,7 +18004,7 @@ For this new edition the book has been thoroughly updated throughout. There are 
 
 
  [![Numerical Optimization](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-40065-5.pdf)
-## Economics as Applied Ethics#economics_as_applied_ethics
+## Economics as Applied Ethics
 ### **Wilfred Beckerman** 
 
 
@@ -18016,7 +18016,7 @@ For this new edition the book has been thoroughly updated throughout. There are 
 
 
  [![Economics as Applied Ethics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-50319-6.pdf)
-## Robotics#robotics
+## Robotics
 ### **Bruno Siciliano, Lorenzo Sciavicco, Luigi Villani, Giuseppe Oriolo** 
 
 
@@ -18049,7 +18049,7 @@ Subsequently, more advanced instruction is given in:
 
 
  [![Robotics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-84628-642-1.pdf)
-## Correctional Counseling and Treatment#correctional_counseling_and_treatment
+## Correctional Counseling and Treatment
 ### **Peter C. Kratcoski** 
 
 
@@ -18083,7 +18083,7 @@ This work provides students with an overview of the methods used for Correctiona
 
 
  [![Correctional Counseling and Treatment](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-54349-9.pdf)
-## Introduction to Artificial Intelligence#introduction_to_artificial_intelligence
+## Introduction to Artificial Intelligence
 ### **Wolfgang Ertel** 
 
 
@@ -18115,7 +18115,7 @@ Ideal for foundation courses or modules on AI, this easy-to-read textbook offers
 
 
  [![Introduction to Artificial Intelligence](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-58487-4.pdf)
-## Search Methodologies#search_methodologies
+## Search Methodologies
 ### **Edmund K. Burke, Graham Kendall** 
 
 
@@ -18135,7 +18135,7 @@ Jacek Blazewicz, Institute of Computing Science, Poznan University of Technology
 
 
  [![Search Methodologies](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-6940-7.pdf)
-## Research Methods for Social Justice and Equity in Education#research_methods_for_social_justice_and_equity_in_education
+## Research Methods for Social Justice and Equity in Education
 ### **Kamden K. Strunk, Leslie Ann Locke** 
 
 
@@ -18149,7 +18149,7 @@ Jacek Blazewicz, Institute of Computing Science, Poznan University of Technology
 
 
  [![Research Methods for Social Justice and Equity in Education](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05900-2.pdf)
-## Foundations for Designing User-Centered Systems#foundations_for_designing_user_centered_systems
+## Foundations for Designing User-Centered Systems
 ### **Frank E. Ritter, Gordon D. Baxter, Elizabeth F. Churchill** 
 
 
@@ -18181,7 +18181,7 @@ The authors have deliberately developed *Foundations for Designing User-Centered
 
 
  [![Foundations for Designing User-Centered Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-5134-0.pdf)
-## A Modern Introduction to Probability and Statistics#a_modern_introduction_to_probability_and_statistics
+## A Modern Introduction to Probability and Statistics
 ### **Frederik Michel Dekking, Cornelis Kraaikamp, Hendrik Paul Lopuhaä, Ludolf Erwin Meester** 
 
 
@@ -18199,7 +18199,7 @@ This will be a key text for undergraduates in Computer Science, Physics, Mathema
 
 
  [![A Modern Introduction to Probability and Statistics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F1-84628-168-7.pdf)
-## Legal Dynamics of EU External Relations#legal_dynamics_of_eu_external_relations
+## Legal Dynamics of EU External Relations
 ### **Henri de Waele** 
 
 
@@ -18216,7 +18216,7 @@ The second edition of this established text (the first edition was published und
 
 
  [![Legal Dynamics of EU External Relations](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54817-2.pdf)
-## Game Theory#game_theory
+## Game Theory
 ### **Hans Peters** 
 
 
@@ -18230,7 +18230,7 @@ The second edition of this established text (the first edition was published und
 
 
  [![Game Theory](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-46950-7.pdf)
-## Integrated Neuroscience#integrated_neuroscience
+## Integrated Neuroscience
 ### **Elliott M. Marcus, Stanley Jacobson** 
 
 
@@ -18245,7 +18245,7 @@ We believe that this textbook will be of value to the student throughout the fou
 
 
  [![Integrated Neuroscience](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4615-1077-2.pdf)
-## Physics from Symmetry#physics_from_symmetry
+## Physics from Symmetry
 ### **Jakob Schwichtenberg** 
 
 
@@ -18264,7 +18264,7 @@ Thanks to the input of readers from around the world, this second edition has be
 
 
  [![Physics from Symmetry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-66631-0.pdf)
-## Linear and Nonlinear Programming#linear_and_nonlinear_programming
+## Linear and Nonlinear Programming
 ### **David G. Luenberger, Yinyu Ye** 
 
 
@@ -18286,7 +18286,7 @@ Thanks to the input of readers from around the world, this second edition has be
 
 
  [![Linear and Nonlinear Programming](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-18842-3.pdf)
-## Time Series Econometrics#time_series_econometrics
+## Time Series Econometrics
 ### **Klaus Neusser** 
 
 
@@ -18298,7 +18298,7 @@ Thanks to the input of readers from around the world, this second edition has be
 
 
  [![Time Series Econometrics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-32862-1.pdf)
-## Perceptual Organization#perceptual_organization
+## Perceptual Organization
 ### **Stephen Handel** 
 
 
@@ -18310,7 +18310,7 @@ Thanks to the input of readers from around the world, this second edition has be
 
 
  [![Perceptual Organization](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-96337-2.pdf)
-## Metabolism of Human Diseases#metabolism_of_human_diseases
+## Metabolism of Human Diseases
 ### **Eckhard Lammert, Martin Zeeb** 
 
 
@@ -18326,7 +18326,7 @@ Thanks to the input of readers from around the world, this second edition has be
 
 
  [![Metabolism of Human Diseases](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-7091-0715-7.pdf)
-## Multivariate Calculus and Geometry#multivariate_calculus_and_geometry
+## Multivariate Calculus and Geometry
 ### **Seán Dineen** 
 
 
@@ -18344,7 +18344,7 @@ Familiarity with partial derivatives and a course in linear algebra are essentia
 
 
  [![Multivariate Calculus and Geometry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-6419-7.pdf)
-## LGBT-Parent Families#lgbt_parent_families
+## LGBT-Parent Families
 ### **Abbie E. Goldberg, Katherine R. Allen** 
 
 
@@ -18373,7 +18373,7 @@ Geared toward researchers in family relations, family sociology, and public heal
 
 
  [![LGBT-Parent Families](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-4556-2.pdf)
-## Fundamentals of Robotic Mechanical Systems#fundamentals_of_robotic_mechanical_systems
+## Fundamentals of Robotic Mechanical Systems
 ### **Jorge Angeles** 
 
 
@@ -18385,7 +18385,7 @@ Geared toward researchers in family relations, family sociology, and public heal
 
 
  [![Fundamentals of Robotic Mechanical Systems](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-01851-5.pdf)
-## An Anthology of London in Literature, 1558-1914#an_anthology_of_london_in_literature_1558_1914
+## An Anthology of London in Literature, 1558-1914
 ### **Geoffrey G. Hiller, Peter L. Groves, Alan F. Dilnot** 
 
 
@@ -18399,7 +18399,7 @@ Geared toward researchers in family relations, family sociology, and public heal
 
 
  [![An Anthology of London in Literature, 1558-1914](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-05609-4.pdf)
-## Computational Physics#computational_physics
+## Computational Physics
 ### **Philipp O.J. Scherer** 
 
 
@@ -18413,7 +18413,7 @@ ry element methods are presented in addition to standard methods, and waves and 
 
 
  [![Computational Physics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-61088-7.pdf)
-## Microeconomics#microeconomics
+## Microeconomics
 ### **Peter Dorman** 
 
 
@@ -18425,7 +18425,7 @@ ry element methods are presented in addition to standard methods, and waves and 
 
 
  [![Microeconomics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-37434-0.pdf)
-## Foundations of Programming Languages#foundations_of_programming_languages
+## Foundations of Programming Languages
 ### **Kent D. Lee** 
 
 
@@ -18458,7 +18458,7 @@ Undergraduate students of computer science will find this engaging textbook to b
 
 
  [![Foundations of Programming Languages](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-70790-7.pdf)
-## Fundamentals of Biomechanics#fundamentals_of_biomechanics
+## Fundamentals of Biomechanics
 ### **Duane Knudson** 
 
 
@@ -18486,7 +18486,7 @@ Dr. Duane Knudson is Associate Dean and Professor of biomechanics in the Departm
 
 
  [![Fundamentals of Biomechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-49312-1.pdf)
-## Electrochemical Impedance Spectroscopy and its Applications#electrochemical_impedance_spectroscopy_and_its_applications
+## Electrochemical Impedance Spectroscopy and its Applications
 ### **Andrzej Lasia** 
 
 
@@ -18500,7 +18500,7 @@ Dr. Duane Knudson is Associate Dean and Professor of biomechanics in the Departm
 
 
  [![Electrochemical Impedance Spectroscopy and its Applications](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-8933-7.pdf)
-## Automatic Control with Experiments#automatic_control_with_experiments
+## Automatic Control with Experiments
 ### **Victor Manuel Hernández-Guzmán, Ramón Silva-Ortigoza** 
 
 
@@ -18518,7 +18518,7 @@ is described, b) a mathematical model is obtained, c) plant construction is expl
 
 
  [![Automatic Control with Experiments](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-75804-6.pdf)
-## Guide to Discrete Mathematics#guide_to_discrete_mathematics
+## Guide to Discrete Mathematics
 ### **Gerard O'Regan** 
 
 
@@ -18543,7 +18543,7 @@ This engaging and clearly written work offers an invaluable overview of discrete
 
 
  [![Guide to Discrete Mathematics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-44561-8.pdf)
-## Principles of Quantum Mechanics#principles_of_quantum_mechanics
+## Principles of Quantum Mechanics
 ### **R. Shankar** 
 
 
@@ -18577,7 +18577,7 @@ The requisite text for advanced undergraduate- and graduate-level students, Prin
 
 
  [![Principles of Quantum Mechanics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4757-0576-8.pdf)
-## Principles of Data Mining#principles_of_data_mining
+## Principles of Data Mining
 ### **Max Bramer** 
 
 
@@ -18602,7 +18602,7 @@ This expanded third edition includes detailed descriptions of algorithms for cla
 
 
  [![Principles of Data Mining](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4471-7307-6.pdf)
-## Essential Astrophysics#essential_astrophysics
+## Essential Astrophysics
 ### **Kenneth R. Lang** 
 
 
@@ -18626,7 +18626,7 @@ Kenneth Lang is a world-renowned author on astrophysics. His books for professio
 
 
  [![Essential Astrophysics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-35963-7.pdf)
-## Introduction to Digital Systems Design#introduction_to_digital_systems_design
+## Introduction to Digital Systems Design
 ### **Giuliano Donzellini, Luca Oneto, Domenico Ponta, Davide Anguita** 
 
 
@@ -18640,7 +18640,7 @@ Kenneth Lang is a world-renowned author on astrophysics. His books for professio
 
 
  [![Introduction to Digital Systems Design](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-92804-3.pdf)
-## All of Statistics#all_of_statistics
+## All of Statistics
 ### **Larry Wasserman** 
 
 
@@ -18658,7 +18658,7 @@ Larry Wasserman is Professor of Statistics at Carnegie Mellon University. He is 
 
 
  [![All of Statistics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-21736-9.pdf)
-## Evidence-Based Critical Care#evidence_based_critical_care
+## Evidence-Based Critical Care
 ### **Robert C. Hyzy** 
 
 
@@ -18673,7 +18673,7 @@ Evidence-Based Critical Care: A Case Study Approach bridges the gulf between the
 
 
  [![Evidence-Based Critical Care](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-43341-7.pdf)
-## Food Chemistry#food_chemistry
+## Food Chemistry
 ### **Hans-Dieter Belitz, Werner Grosch, Peter Schieberle** 
 
 
@@ -18695,7 +18695,7 @@ From reviews of the first edition
 
 
  [![Food Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-540-69934-7.pdf)
-## Applied Quantitative Finance#applied_quantitative_finance
+## Applied Quantitative Finance
 ### **Wolfgang Karl Härdle, Cathy Yi-Hsuan Chen, Ludger Overbeck** 
 
 
@@ -18721,7 +18721,7 @@ om, quantlet.org is an integrated QuantNet environment consisting of different t
 
 
  [![Applied Quantitative Finance](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-54486-0.pdf)
-## Lessons on Synthetic Bioarchitectures#lessons_on_synthetic_bioarchitectures
+## Lessons on Synthetic Bioarchitectures
 ### **Eva-Kathrin Ehmoser-Sinner, Cherng-Wen Darren Tan** 
 
 
@@ -18738,7 +18738,7 @@ The textbook is based on a lecture of the same title, held for master’s studen
 
 
  [![Lessons on Synthetic Bioarchitectures](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-73123-0.pdf)
-## Social Media Management#social_media_management
+## Social Media Management
 ### **Amy Van Looy** 
 
 
@@ -18750,7 +18750,7 @@ The textbook is based on a lecture of the same title, held for master’s studen
 
 
  [![Social Media Management](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-21990-5.pdf)
-## Handbook of Cardiac Anatomy, Physiology, and Devices#handbook_of_cardiac_anatomy_physiology_and_devices
+## Handbook of Cardiac Anatomy, Physiology, and Devices
 ### **Paul A. Iaizzo** 
 
 
@@ -18776,7 +18776,7 @@ This book:
 
 
  [![Handbook of Cardiac Anatomy, Physiology, and Devices](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-19464-6.pdf)
-## Handbook of the Sociology of Gender#handbook_of_the_sociology_of_gender
+## Handbook of the Sociology of Gender
 ### **Janet Saltzman Chafetz** 
 
 
@@ -18804,7 +18804,7 @@ Each of these viewpoints survey the field in a critical manner, evaluating theor
 
 
  [![Handbook of the Sociology of Gender](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F0-387-36218-5.pdf)
-## Social Marketing in Action#social_marketing_in_action
+## Social Marketing in Action
 ### **Debra Z. Basil, Gonzalo Diaz-Meneses, Michael D. Basil** 
 
 
@@ -18842,7 +18842,7 @@ This format allows for students and professors to easily and effectively select 
 
 
  [![Social Marketing in Action](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-030-13020-6.pdf)
-## Classical Fourier Analysis#classical_fourier_analysis
+## Classical Fourier Analysis
 ### **Loukas Grafakos** 
 
 
@@ -18868,7 +18868,7 @@ indispensable and valuable reference for researchers who are working on analysis
 
 
  [![Classical Fourier Analysis](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4939-1194-3.pdf)
-## The Action Research Planner#the_action_research_planner
+## The Action Research Planner
 ### **Stephen Kemmis, Robin McTaggart, Rhonda Nixon** 
 
 
@@ -18886,7 +18886,7 @@ Unlike earlier editions, *The Action Research Planner* focuses specifically on c
 
 
  [![The Action Research Planner](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-981-4560-67-2.pdf)
-## Introduction to Smooth Manifolds#introduction_to_smooth_manifolds
+## Introduction to Smooth Manifolds
 ### **John M. Lee** 
 
 
@@ -18904,7 +18904,7 @@ Prerequisites include a solid acquaintance with general topology, the fundamenta
 
 
  [![Introduction to Smooth Manifolds](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4419-9982-5.pdf)
-## Structure Determination by X-ray Crystallography#structure_determination_by_x_ray_crystallography
+## Structure Determination by X-ray Crystallography
 ### **Mark Ladd, Rex Palmer** 
 
 
@@ -18932,7 +18932,7 @@ The new material includes sections on fullerenes and icosahedral, black and whit
 
 
  [![Structure Determination by X-ray Crystallography](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-1-4614-3954-7.pdf)
-## Polymer Chemistry#polymer_chemistry
+## Polymer Chemistry
 ### **Sebastian Koltzenburg, Michael Maskos, Oskar Nuyken** 
 
 
@@ -18944,7 +18944,7 @@ The new material includes sections on fullerenes and icosahedral, black and whit
 
 
  [![Polymer Chemistry](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-662-49279-6.pdf)
-## Acquired Brain Injury#acquired_brain_injury
+## Acquired Brain Injury
 ### **Jean Elbaum, Deborah M. Benson** 
 
 
@@ -18976,7 +18976,7 @@ Based on the editors’ combined experience of more than 40 years in the neuro-r
 
 
  [![Acquired Brain Injury](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-0-387-37575-5.pdf)
-## Electronic Commerce 2018#electronic_commerce_2018
+## Electronic Commerce 2018
 ### **Efraim Turban, Jon Outland, David King, Jae Kyu Lee, Ting-Peng Liang, Deborrah C. Turban** 
 
 
@@ -18992,7 +18992,7 @@ The most important developments in EC since 2014 are the continuous phenomenal g
 
 
  [![Electronic Commerce 2018](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-58715-8.pdf)
-## Fluid Dynamics#fluid_dynamics
+## Fluid Dynamics
 ### **Michel Rieutord** 
 
 
@@ -19006,7 +19006,7 @@ The most important developments in EC since 2014 are the continuous phenomenal g
 
 
  [![Fluid Dynamics](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-09351-2.pdf)
-## Understanding Cryptography#understanding_cryptography
+## Understanding Cryptography
 ### **Christof Paar, Jan Pelzl** 
 
 
@@ -19024,7 +19024,7 @@ The authors have considerable experience teaching applied cryptography to engine
 
 
  [![Understanding Cryptography](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-642-04101-3.pdf)
-## Food Analysis Laboratory Manual#food_analysis_laboratory_manual
+## Food Analysis Laboratory Manual
 ### **S. Suzanne Nielsen** 
 
 
@@ -19036,7 +19036,7 @@ The authors have considerable experience teaching applied cryptography to engine
 
 
  [![Food Analysis Laboratory Manual](https://upload.wikimedia.org/wikipedia/commons/2/2c/Pdflogogt.png)](https://link.springer.com/content/pdf/10.1007%2F978-3-319-44127-6.pdf)
-## Introduction to Embedded Systems#introduction_to_embedded_systems
+## Introduction to Embedded Systems
 ### **Manuel Jiménez, Rogelio Palomera, Isidoro Couvertier** 
 
 
