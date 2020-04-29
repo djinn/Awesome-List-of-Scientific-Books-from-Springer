@@ -1,4 +1,4 @@
-# Awesome collection of Springer books  
+# Awesome Collection of Springer Technical Books  
 
 ### Behavioral Science
 
